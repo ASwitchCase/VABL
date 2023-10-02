@@ -1,0 +1,23 @@
+
+.credential-field{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    height: fit-content;
+}
+
+.logo{
+    border-radius: 5px;
+    box-shadow: 1px rgb(47, 47, 47);
+    width: 400px;
+    margin: 20px;
+}
+
+mat-form-field{
+    width: 99%;
+}
+
+button{
+    font-size: 20px;
+}

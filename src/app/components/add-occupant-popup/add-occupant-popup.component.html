@@ -1,0 +1,35 @@
+
+<h1 mat-dialog-title>Enter Occupant Information for Locker# {{data.locker.lockerId}}</h1>
+<div mat-dialog-content>
+    <section class="info-entry">
+    <mat-form-field>
+        <mat-label>Enter Name</mat-label>
+        <input matInput placeholder="Jenny Doe" [(ngModel)]="lockerDto.occupant.name">
+      </mat-form-field>
+
+      <mat-form-field>
+        <mat-label>Enter email</mat-label>
+        <input matInput placeholder="pat@example.com" [(ngModel)]="lockerDto.occupant.email">
+      </mat-form-field>
+
+      <mat-form-field>
+        <mat-label>Enter Id</mat-label>
+        <input matInput placeholder="0000000" [(ngModel)]="lockerDto.occupant.sid">
+      </mat-form-field>
+
+      <mat-form-field>
+        <mat-label>Enter Phone</mat-label>
+        <input matInput placeholder="222-222-2222" [(ngModel)]="lockerDto.occupant.phone">
+      </mat-form-field>
+
+    </section>
+     
+    <section class="button-contianer">
+        <div class="buttons" mat-dialog-actions>
+            <button mat-raised-button (click)="onCancel()" color="warn">Cancel</button>
+            <button mat-raised-button [mat-dialog-close]="lockerDto" color="accent"
+                       cdkFocusInitial>Submit</button>
+          </div>
+    </section>
+      
+</div>

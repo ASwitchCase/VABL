@@ -1,0 +1,28 @@
+.content-field{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    height: 600px;
+    
+}
+input{
+    width: 72%;
+    height: 35px;
+    font-size: 20px;
+}
+.search-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.table-data{
+    height: 90%;
+    overflow-y: scroll;
+}
+
+.spacer {
+    flex: 1 1 auto;
+}

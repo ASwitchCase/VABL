@@ -1,0 +1,14 @@
+.info-entry{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+mat-form-field{
+    width: 90%;
+}
+
+.button-contianer{
+    display: flex;
+    justify-content: center;
+}

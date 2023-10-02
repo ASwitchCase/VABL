@@ -1,0 +1,6293 @@
+{
+"data":
+[
+    {
+        "semester": "Fall 2021",
+        "l_list": [
+            {
+                "lockerId": "B001",
+                "occupant": null
+            },
+            {
+                "lockerId": "B002",
+                "occupant": null
+            },
+            {
+                "lockerId": "B003",
+                "occupant": null
+            },
+            {
+                "lockerId": "B004",
+                "occupant": null
+            },
+            {
+                "lockerId": "B005",
+                "occupant": null
+            },
+            {
+                "lockerId": "B006",
+                "occupant": null
+            },
+            {
+                "lockerId": "B007",
+                "occupant": null
+            },
+            {
+                "lockerId": "B008",
+                "occupant": null
+            },
+            {
+                "lockerId": "B009",
+                "occupant": null
+            },
+            {
+                "lockerId": "B010",
+                "occupant": null
+            },
+            {
+                "lockerId": "B011",
+                "occupant": null
+            },
+            {
+                "lockerId": "B012",
+                "occupant": null
+            },
+            {
+                "lockerId": "B013",
+                "occupant": {
+                    "name": "Jhyda Pura-Quilla",
+                    "id": "0297734",
+                    "phone": "917-658-2681",
+                    "email": "jpuraquilla@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "B014",
+                "occupant": null
+            },
+            {
+                "lockerId": "B015",
+                "occupant": null
+            },
+            {
+                "lockerId": "B016",
+                "occupant": null
+            },
+            {
+                "lockerId": "B017",
+                "occupant": null
+            },
+            {
+                "lockerId": "B018",
+                "occupant": null
+            },
+            {
+                "lockerId": "B019",
+                "occupant": null
+            },
+            {
+                "lockerId": "B020",
+                "occupant": null
+            },
+            {
+                "lockerId": "B021",
+                "occupant": null
+            },
+            {
+                "lockerId": "B022",
+                "occupant": null
+            },
+            {
+                "lockerId": "B023",
+                "occupant": null
+            },
+            {
+                "lockerId": "B024",
+                "occupant": null
+            },
+            {
+                "lockerId": "B025",
+                "occupant": null
+            },
+            {
+                "lockerId": "B026",
+                "occupant": null
+            },
+            {
+                "lockerId": "B027",
+                "occupant": null
+            },
+            {
+                "lockerId": "B028",
+                "occupant": null
+            },
+            {
+                "lockerId": "B029",
+                "occupant": null
+            },
+            {
+                "lockerId": "B030",
+                "occupant": null
+            },
+            {
+                "lockerId": "B031",
+                "occupant": null
+            },
+            {
+                "lockerId": "B032",
+                "occupant": null
+            },
+            {
+                "lockerId": "B033",
+                "occupant": null
+            },
+            {
+                "lockerId": "B034",
+                "occupant": null
+            },
+            {
+                "lockerId": "B035",
+                "occupant": null
+            },
+            {
+                "lockerId": "B036",
+                "occupant": null
+            },
+            {
+                "lockerId": "B037",
+                "occupant": null
+            },
+            {
+                "lockerId": "B038",
+                "occupant": null
+            },
+            {
+                "lockerId": "B039",
+                "occupant": null
+            },
+            {
+                "lockerId": "B040",
+                "occupant": null
+            },
+            {
+                "lockerId": "B041",
+                "occupant": null
+            },
+            {
+                "lockerId": "B042",
+                "occupant": null
+            },
+            {
+                "lockerId": "B043",
+                "occupant": null
+            },
+            {
+                "lockerId": "B044",
+                "occupant": null
+            },
+            {
+                "lockerId": "B045",
+                "occupant": null
+            },
+            {
+                "lockerId": "B046",
+                "occupant": null
+            },
+            {
+                "lockerId": "B047",
+                "occupant": null
+            },
+            {
+                "lockerId": "B048",
+                "occupant": null
+            },
+            {
+                "lockerId": "B049",
+                "occupant": null
+            },
+            {
+                "lockerId": "B050",
+                "occupant": null
+            },
+            {
+                "lockerId": "B051",
+                "occupant": null
+            },
+            {
+                "lockerId": "B052",
+                "occupant": null
+            },
+            {
+                "lockerId": "B053",
+                "occupant": null
+            },
+            {
+                "lockerId": "B054",
+                "occupant": null
+            },
+            {
+                "lockerId": "B055",
+                "occupant": null
+            },
+            {
+                "lockerId": "B056",
+                "occupant": null
+            },
+            {
+                "lockerId": "B057",
+                "occupant": null
+            },
+            {
+                "lockerId": "B058",
+                "occupant": null
+            },
+            {
+                "lockerId": "B059",
+                "occupant": null
+            },
+            {
+                "lockerId": "B060",
+                "occupant": null
+            },
+            {
+                "lockerId": "B061",
+                "occupant": null
+            },
+            {
+                "lockerId": "B062",
+                "occupant": null
+            },
+            {
+                "lockerId": "B063",
+                "occupant": null
+            },
+            {
+                "lockerId": "B064",
+                "occupant": null
+            },
+            {
+                "lockerId": "B065",
+                "occupant": null
+            },
+            {
+                "lockerId": "B066",
+                "occupant": null
+            },
+            {
+                "lockerId": "B067",
+                "occupant": null
+            },
+            {
+                "lockerId": "B068",
+                "occupant": null
+            },
+            {
+                "lockerId": "B069",
+                "occupant": null
+            },
+            {
+                "lockerId": "B070",
+                "occupant": null
+            },
+            {
+                "lockerId": "B071",
+                "occupant": null
+            },
+            {
+                "lockerId": "B072",
+                "occupant": null
+            },
+            {
+                "lockerId": "B073",
+                "occupant": null
+            },
+            {
+                "lockerId": "B074",
+                "occupant": null
+            },
+            {
+                "lockerId": "B075",
+                "occupant": null
+            },
+            {
+                "lockerId": "B076",
+                "occupant": null
+            },
+            {
+                "lockerId": "B077",
+                "occupant": null
+            },
+            {
+                "lockerId": "B078",
+                "occupant": null
+            },
+            {
+                "lockerId": "B079",
+                "occupant": null
+            },
+            {
+                "lockerId": "B080",
+                "occupant": null
+            },
+            {
+                "lockerId": "B081",
+                "occupant": null
+            },
+            {
+                "lockerId": "B082",
+                "occupant": null
+            },
+            {
+                "lockerId": "B083",
+                "occupant": null
+            },
+            {
+                "lockerId": "B084",
+                "occupant": null
+            },
+            {
+                "lockerId": "B085",
+                "occupant": null
+            },
+            {
+                "lockerId": "B086",
+                "occupant": null
+            },
+            {
+                "lockerId": "B087",
+                "occupant": null
+            },
+            {
+                "lockerId": "B088",
+                "occupant": null
+            },
+            {
+                "lockerId": "B089",
+                "occupant": null
+            },
+            {
+                "lockerId": "B090",
+                "occupant": null
+            },
+            {
+                "lockerId": "B091",
+                "occupant": null
+            },
+            {
+                "lockerId": "B092",
+                "occupant": null
+            },
+            {
+                "lockerId": "B093",
+                "occupant": null
+            },
+            {
+                "lockerId": "B094",
+                "occupant": null
+            },
+            {
+                "lockerId": "B095",
+                "occupant": null
+            },
+            {
+                "lockerId": "B096",
+                "occupant": null
+            },
+            {
+                "lockerId": "B097",
+                "occupant": null
+            },
+            {
+                "lockerId": "B098",
+                "occupant": null
+            },
+            {
+                "lockerId": "B099",
+                "occupant": null
+            },
+            {
+                "lockerId": "B100",
+                "occupant": null
+            },
+            {
+                "lockerId": "B101",
+                "occupant": null
+            },
+            {
+                "lockerId": "B102",
+                "occupant": null
+            },
+            {
+                "lockerId": "B103",
+                "occupant": null
+            },
+            {
+                "lockerId": "B104",
+                "occupant": null
+            },
+            {
+                "lockerId": "B105",
+                "occupant": null
+            },
+            {
+                "lockerId": "B106",
+                "occupant": null
+            },
+            {
+                "lockerId": "B107",
+                "occupant": null
+            },
+            {
+                "lockerId": "B108",
+                "occupant": null
+            },
+            {
+                "lockerId": "B109",
+                "occupant": null
+            },
+            {
+                "lockerId": "B110",
+                "occupant": null
+            },
+            {
+                "lockerId": "B111",
+                "occupant": null
+            },
+            {
+                "lockerId": "B112",
+                "occupant": null
+            },
+            {
+                "lockerId": "B113",
+                "occupant": null
+            },
+            {
+                "lockerId": "B114",
+                "occupant": null
+            },
+            {
+                "lockerId": "B115",
+                "occupant": null
+            },
+            {
+                "lockerId": "B116",
+                "occupant": null
+            },
+            {
+                "lockerId": "B117",
+                "occupant": null
+            },
+            {
+                "lockerId": "B118",
+                "occupant": null
+            },
+            {
+                "lockerId": "B119",
+                "occupant": null
+            },
+            {
+                "lockerId": "B120",
+                "occupant": null
+            },
+            {
+                "lockerId": "B121",
+                "occupant": null
+            },
+            {
+                "lockerId": "B122",
+                "occupant": null
+            },
+            {
+                "lockerId": "B123",
+                "occupant": null
+            },
+            {
+                "lockerId": "B124",
+                "occupant": null
+            },
+            {
+                "lockerId": "B125",
+                "occupant": null
+            },
+            {
+                "lockerId": "B126",
+                "occupant": null
+            },
+            {
+                "lockerId": "B127",
+                "occupant": null
+            },
+            {
+                "lockerId": "B128",
+                "occupant": null
+            },
+            {
+                "lockerId": "1001",
+                "occupant": null
+            },
+            {
+                "lockerId": "1002",
+                "occupant": null
+            },
+            {
+                "lockerId": "1003",
+                "occupant": null
+            },
+            {
+                "lockerId": "1004",
+                "occupant": {
+                    "name": "Jonathan Izyayev",
+                    "id": "0370534",
+                    "phone": "772-337-4027",
+                    "email": "jizyayev@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1005",
+                "occupant": null
+            },
+            {
+                "lockerId": "1006",
+                "occupant": null
+            },
+            {
+                "lockerId": "1007",
+                "occupant": null
+            },
+            {
+                "lockerId": "1008",
+                "occupant": null
+            },
+            {
+                "lockerId": "1009",
+                "occupant": null
+            },
+            {
+                "lockerId": "1010",
+                "occupant": null
+            },
+            {
+                "lockerId": "1011",
+                "occupant": null
+            },
+            {
+                "lockerId": "1012",
+                "occupant": null
+            },
+            {
+                "lockerId": "1013",
+                "occupant": null
+            },
+            {
+                "lockerId": "1014",
+                "occupant": null
+            },
+            {
+                "lockerId": "1015",
+                "occupant": null
+            },
+            {
+                "lockerId": "1016",
+                "occupant": null
+            },
+            {
+                "lockerId": "1017",
+                "occupant": {
+                    "name": "Cinthia Cedeno",
+                    "id": "0263212",
+                    "phone": "551-556-9028",
+                    "email": "ccedeno@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1018",
+                "occupant": null
+            },
+            {
+                "lockerId": "1019",
+                "occupant": null
+            },
+            {
+                "lockerId": "1020",
+                "occupant": null
+            },
+            {
+                "lockerId": "1021",
+                "occupant": null
+            },
+            {
+                "lockerId": "1022",
+                "occupant": null
+            },
+            {
+                "lockerId": "1023",
+                "occupant": null
+            },
+            {
+                "lockerId": "1024",
+                "occupant": null
+            },
+            {
+                "lockerId": "1025",
+                "occupant": null
+            },
+            {
+                "lockerId": "1026",
+                "occupant": null
+            },
+            {
+                "lockerId": "1027",
+                "occupant": null
+            },
+            {
+                "lockerId": "1028",
+                "occupant": null
+            },
+            {
+                "lockerId": "1029",
+                "occupant": null
+            },
+            {
+                "lockerId": "1030",
+                "occupant": null
+            },
+            {
+                "lockerId": "1031",
+                "occupant": null
+            },
+            {
+                "lockerId": "1032",
+                "occupant": null
+            },
+            {
+                "lockerId": "1033",
+                "occupant": null
+            },
+            {
+                "lockerId": "1034",
+                "occupant": null
+            },
+            {
+                "lockerId": "1035",
+                "occupant": null
+            },
+            {
+                "lockerId": "1036",
+                "occupant": null
+            },
+            {
+                "lockerId": "1037",
+                "occupant": null
+            },
+            {
+                "lockerId": "1038",
+                "occupant": null
+            },
+            {
+                "lockerId": "1039",
+                "occupant": null
+            },
+            {
+                "lockerId": "1040",
+                "occupant": null
+            },
+            {
+                "lockerId": "1041",
+                "occupant": null
+            },
+            {
+                "lockerId": "1042",
+                "occupant": null
+            },
+            {
+                "lockerId": "1043",
+                "occupant": null
+            },
+            {
+                "lockerId": "1044",
+                "occupant": null
+            },
+            {
+                "lockerId": "1045",
+                "occupant": {
+                    "name": "Jaime Medina",
+                    "id": "0370625",
+                    "phone": "551-697-5369",
+                    "email": "jmedinalo@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1046",
+                "occupant": null
+            },
+            {
+                "lockerId": "1047",
+                "occupant": {
+                    "name": "Elizabeth Hernandez",
+                    "id": "0373623",
+                    "phone": "9735108547",
+                    "email": "ehemandezvictoriano@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1048",
+                "occupant": null
+            },
+            {
+                "lockerId": "1049",
+                "occupant": {
+                    "name": "Sophia Gagliardi",
+                    "id": "0411994",
+                    "phone": "862-228-0050",
+                    "email": "sgagliardi@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1050",
+                "occupant": null
+            },
+            {
+                "lockerId": "1051",
+                "occupant": null
+            },
+            {
+                "lockerId": "1052",
+                "occupant": null
+            },
+            {
+                "lockerId": "1053",
+                "occupant": null
+            },
+            {
+                "lockerId": "1054",
+                "occupant": null
+            },
+            {
+                "lockerId": "1055",
+                "occupant": {
+                    "name": "Bersabe Martinez",
+                    "id": "0396576",
+                    "phone": "201-639-1725",
+                    "email": "martinezbersabe@gamail.com"
+                }
+            },
+            {
+                "lockerId": "1056",
+                "occupant": null
+            },
+            {
+                "lockerId": "1057",
+                "occupant": {
+                    "name": "Amna Khokhar",
+                    "id": "0366572",
+                    "phone": "201-284-1540",
+                    "email": "akokhar@gamail.com"
+                }
+            },
+            {
+                "lockerId": "1058",
+                "occupant": null
+            },
+            {
+                "lockerId": "1059",
+                "occupant": null
+            },
+            {
+                "lockerId": "1060",
+                "occupant": null
+            },
+            {
+                "lockerId": "1061",
+                "occupant": null
+            },
+            {
+                "lockerId": "1062",
+                "occupant": null
+            },
+            {
+                "lockerId": "1063",
+                "occupant": {
+                    "name": "Mariam Solieman",
+                    "id": "0372443",
+                    "phone": "201-932-5569",
+                    "email": "msolieman@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1064",
+                "occupant": null
+            },
+            {
+                "lockerId": "1065",
+                "occupant": {
+                    "name": "john gobry",
+                    "id": "0351983",
+                    "phone": "(201)719-9610",
+                    "email": "jonnycG89@aol.com"
+                }
+            },
+            {
+                "lockerId": "1066",
+                "occupant": null
+            },
+            {
+                "lockerId": "1067",
+                "occupant": {
+                    "name": "Farah Ebrahim",
+                    "id": "0380357",
+                    "phone": "848-448-4998",
+                    "email": "febrahim@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1068",
+                "occupant": null
+            },
+            {
+                "lockerId": "1069",
+                "occupant": null
+            },
+            {
+                "lockerId": "1070",
+                "occupant": null
+            },
+            {
+                "lockerId": "1071",
+                "occupant": null
+            },
+            {
+                "lockerId": "1072",
+                "occupant": null
+            },
+            {
+                "lockerId": "1073",
+                "occupant": null
+            },
+            {
+                "lockerId": "1074",
+                "occupant": null
+            },
+            {
+                "lockerId": "1075",
+                "occupant": null
+            },
+            {
+                "lockerId": "1076",
+                "occupant": null
+            },
+            {
+                "lockerId": "1077",
+                "occupant": null
+            },
+            {
+                "lockerId": "1078",
+                "occupant": null
+            },
+            {
+                "lockerId": "1079",
+                "occupant": null
+            },
+            {
+                "lockerId": "1080",
+                "occupant": null
+            },
+            {
+                "lockerId": "1081",
+                "occupant": null
+            },
+            {
+                "lockerId": "1082",
+                "occupant": null
+            },
+            {
+                "lockerId": "1083",
+                "occupant": null
+            },
+            {
+                "lockerId": "1084",
+                "occupant": null
+            },
+            {
+                "lockerId": "1085",
+                "occupant": null
+            },
+            {
+                "lockerId": "1086",
+                "occupant": null
+            },
+            {
+                "lockerId": "1087",
+                "occupant": null
+            },
+            {
+                "lockerId": "1088",
+                "occupant": null
+            },
+            {
+                "lockerId": "1089",
+                "occupant": null
+            },
+            {
+                "lockerId": "1090",
+                "occupant": null
+            },
+            {
+                "lockerId": "1091",
+                "occupant": null
+            },
+            {
+                "lockerId": "1092",
+                "occupant": null
+            },
+            {
+                "lockerId": "1093",
+                "occupant": null
+            },
+            {
+                "lockerId": "1094",
+                "occupant": null
+            },
+            {
+                "lockerId": "1095",
+                "occupant": null
+            },
+            {
+                "lockerId": "1096",
+                "occupant": null
+            },
+            {
+                "lockerId": "1097",
+                "occupant": null
+            },
+            {
+                "lockerId": "1098",
+                "occupant": null
+            },
+            {
+                "lockerId": "1099",
+                "occupant": null
+            },
+            {
+                "lockerId": "1100",
+                "occupant": null
+            },
+            {
+                "lockerId": "1101",
+                "occupant": null
+            },
+            {
+                "lockerId": "1102",
+                "occupant": null
+            },
+            {
+                "lockerId": "1103",
+                "occupant": null
+            },
+            {
+                "lockerId": "1104",
+                "occupant": null
+            },
+            {
+                "lockerId": "1105",
+                "occupant": null
+            },
+            {
+                "lockerId": "1106",
+                "occupant": null
+            },
+            {
+                "lockerId": "1107",
+                "occupant": null
+            },
+            {
+                "lockerId": "1108",
+                "occupant": null
+            },
+            {
+                "lockerId": "1109",
+                "occupant": null
+            },
+            {
+                "lockerId": "1110",
+                "occupant": null
+            },
+            {
+                "lockerId": "1111",
+                "occupant": null
+            },
+            {
+                "lockerId": "1112",
+                "occupant": null
+            },
+            {
+                "lockerId": "1113",
+                "occupant": null
+            },
+            {
+                "lockerId": "1114",
+                "occupant": null
+            },
+            {
+                "lockerId": "1115",
+                "occupant": null
+            },
+            {
+                "lockerId": "1116",
+                "occupant": null
+            },
+            {
+                "lockerId": "1117",
+                "occupant": null
+            },
+            {
+                "lockerId": "1118",
+                "occupant": null
+            },
+            {
+                "lockerId": "1119",
+                "occupant": null
+            },
+            {
+                "lockerId": "1120",
+                "occupant": null
+            },
+            {
+                "lockerId": "1121",
+                "occupant": null
+            },
+            {
+                "lockerId": "1122",
+                "occupant": null
+            },
+            {
+                "lockerId": "1123",
+                "occupant": null
+            },
+            {
+                "lockerId": "1124",
+                "occupant": null
+            },
+            {
+                "lockerId": "1125",
+                "occupant": null
+            },
+            {
+                "lockerId": "1126",
+                "occupant": null
+            },
+            {
+                "lockerId": "1127",
+                "occupant": null
+            },
+            {
+                "lockerId": "1128",
+                "occupant": null
+            },
+            {
+                "lockerId": "2001",
+                "occupant": {
+                    "name": "Bella Gonzalez",
+                    "id": "0397669",
+                    "phone": "973-330-7884",
+                    "email": "agonzalez35@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "2002",
+                "occupant": null
+            },
+            {
+                "lockerId": "2003",
+                "occupant": null
+            },
+            {
+                "lockerId": "2004",
+                "occupant": null
+            },
+            {
+                "lockerId": "2005",
+                "occupant": null
+            },
+            {
+                "lockerId": "2006",
+                "occupant": null
+            },
+            {
+                "lockerId": "2007",
+                "occupant": null
+            },
+            {
+                "lockerId": "2008",
+                "occupant": null
+            },
+            {
+                "lockerId": "2009",
+                "occupant": null
+            },
+            {
+                "lockerId": "2010",
+                "occupant": null
+            },
+            {
+                "lockerId": "2011",
+                "occupant": null
+            },
+            {
+                "lockerId": "2012",
+                "occupant": null
+            },
+            {
+                "lockerId": "2013",
+                "occupant": {
+                    "name": "Ana Sullivan",
+                    "id": "0201518",
+                    "phone": "201-566-6175",
+                    "email": "asullivan4@gamail.com"
+                }
+            },
+            {
+                "lockerId": "2014",
+                "occupant": null
+            },
+            {
+                "lockerId": "2015",
+                "occupant": null
+            },
+            {
+                "lockerId": "2016",
+                "occupant": null
+            },
+            {
+                "lockerId": "2017",
+                "occupant": null
+            },
+            {
+                "lockerId": "2018",
+                "occupant": null
+            },
+            {
+                "lockerId": "2019",
+                "occupant": null
+            },
+            {
+                "lockerId": "2020",
+                "occupant": null
+            },
+            {
+                "lockerId": "2021",
+                "occupant": null
+            },
+            {
+                "lockerId": "2022",
+                "occupant": null
+            },
+            {
+                "lockerId": "2023",
+                "occupant": null
+            },
+            {
+                "lockerId": "2024",
+                "occupant": null
+            },
+            {
+                "lockerId": "2025",
+                "occupant": null
+            },
+            {
+                "lockerId": "2026",
+                "occupant": null
+            },
+            {
+                "lockerId": "2027",
+                "occupant": null
+            },
+            {
+                "lockerId": "2028",
+                "occupant": null
+            },
+            {
+                "lockerId": "2029",
+                "occupant": null
+            },
+            {
+                "lockerId": "2030",
+                "occupant": null
+            },
+            {
+                "lockerId": "2031",
+                "occupant": null
+            },
+            {
+                "lockerId": "2032",
+                "occupant": null
+            },
+            {
+                "lockerId": "2033",
+                "occupant": null
+            },
+            {
+                "lockerId": "2034",
+                "occupant": null
+            },
+            {
+                "lockerId": "2035",
+                "occupant": null
+            },
+            {
+                "lockerId": "2036",
+                "occupant": null
+            },
+            {
+                "lockerId": "2037",
+                "occupant": null
+            },
+            {
+                "lockerId": "2038",
+                "occupant": null
+            },
+            {
+                "lockerId": "2039",
+                "occupant": null
+            },
+            {
+                "lockerId": "2040",
+                "occupant": null
+            },
+            {
+                "lockerId": "2041",
+                "occupant": null
+            },
+            {
+                "lockerId": "2042",
+                "occupant": null
+            },
+            {
+                "lockerId": "2043",
+                "occupant": null
+            },
+            {
+                "lockerId": "2044",
+                "occupant": null
+            },
+            {
+                "lockerId": "2045",
+                "occupant": null
+            },
+            {
+                "lockerId": "2046",
+                "occupant": null
+            },
+            {
+                "lockerId": "2047",
+                "occupant": null
+            },
+            {
+                "lockerId": "2048",
+                "occupant": null
+            },
+            {
+                "lockerId": "2049",
+                "occupant": null
+            },
+            {
+                "lockerId": "2050",
+                "occupant": null
+            },
+            {
+                "lockerId": "2051",
+                "occupant": null
+            },
+            {
+                "lockerId": "2052",
+                "occupant": null
+            },
+            {
+                "lockerId": "2053",
+                "occupant": null
+            },
+            {
+                "lockerId": "2054",
+                "occupant": null
+            },
+            {
+                "lockerId": "2055",
+                "occupant": null
+            },
+            {
+                "lockerId": "2056",
+                "occupant": null
+            },
+            {
+                "lockerId": "2057",
+                "occupant": null
+            },
+            {
+                "lockerId": "2058",
+                "occupant": null
+            },
+            {
+                "lockerId": "2059",
+                "occupant": null
+            },
+            {
+                "lockerId": "2060",
+                "occupant": null
+            },
+            {
+                "lockerId": "2061",
+                "occupant": null
+            },
+            {
+                "lockerId": "2062",
+                "occupant": null
+            },
+            {
+                "lockerId": "2063",
+                "occupant": null
+            },
+            {
+                "lockerId": "2064",
+                "occupant": null
+            },
+            {
+                "lockerId": "2065",
+                "occupant": null
+            },
+            {
+                "lockerId": "2066",
+                "occupant": null
+            },
+            {
+                "lockerId": "2067",
+                "occupant": null
+            },
+            {
+                "lockerId": "2068",
+                "occupant": null
+            },
+            {
+                "lockerId": "2069",
+                "occupant": null
+            },
+            {
+                "lockerId": "2070",
+                "occupant": null
+            },
+            {
+                "lockerId": "2071",
+                "occupant": null
+            },
+            {
+                "lockerId": "2072",
+                "occupant": null
+            },
+            {
+                "lockerId": "2073",
+                "occupant": null
+            },
+            {
+                "lockerId": "2074",
+                "occupant": null
+            },
+            {
+                "lockerId": "2075",
+                "occupant": null
+            },
+            {
+                "lockerId": "2076",
+                "occupant": null
+            },
+            {
+                "lockerId": "2077",
+                "occupant": null
+            },
+            {
+                "lockerId": "2078",
+                "occupant": null
+            },
+            {
+                "lockerId": "2079",
+                "occupant": null
+            },
+            {
+                "lockerId": "2080",
+                "occupant": null
+            },
+            {
+                "lockerId": "2081",
+                "occupant": {
+                    "name": "Jean F Santiaque",
+                    "id": "0325358",
+                    "phone": "973-666-6848",
+                    "email": "Santiaquee@gamail.com"
+                }
+            },
+            {
+                "lockerId": "2082",
+                "occupant": null
+            },
+            {
+                "lockerId": "2083",
+                "occupant": null
+            },
+            {
+                "lockerId": "2084",
+                "occupant": null
+            },
+            {
+                "lockerId": "2085",
+                "occupant": null
+            },
+            {
+                "lockerId": "2086",
+                "occupant": null
+            },
+            {
+                "lockerId": "2087",
+                "occupant": null
+            },
+            {
+                "lockerId": "2088",
+                "occupant": null
+            },
+            {
+                "lockerId": "2089",
+                "occupant": null
+            },
+            {
+                "lockerId": "2090",
+                "occupant": null
+            },
+            {
+                "lockerId": "2091",
+                "occupant": null
+            },
+            {
+                "lockerId": "2092",
+                "occupant": null
+            },
+            {
+                "lockerId": "2093",
+                "occupant": null
+            },
+            {
+                "lockerId": "2094",
+                "occupant": null
+            },
+            {
+                "lockerId": "2095",
+                "occupant": {
+                    "name": "Sofia Nolasco",
+                    "id": "0362161",
+                    "phone": "201-375-1606",
+                    "email": "snolasco@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "2096",
+                "occupant": null
+            },
+            {
+                "lockerId": "2097",
+                "occupant": null
+            },
+            {
+                "lockerId": "2098",
+                "occupant": null
+            },
+            {
+                "lockerId": "2099",
+                "occupant": {
+                    "name": "Ficarelli Halpern",
+                    "id": "Adjuct Faculty",
+                    "phone": "732-995-6056",
+                    "email": "lhalpern@njcu"
+                }
+            },
+            {
+                "lockerId": "2100",
+                "occupant": null
+            },
+            {
+                "lockerId": "2101",
+                "occupant": {
+                    "name": "Ficarelli Halpern",
+                    "id": "Adjuct Faculty",
+                    "phone": "732-995-6056",
+                    "email": "lhalpern@njcu"
+                }
+            },
+            {
+                "lockerId": "2102",
+                "occupant": null
+            },
+            {
+                "lockerId": "2103",
+                "occupant": null
+            },
+            {
+                "lockerId": "2104",
+                "occupant": null
+            },
+            {
+                "lockerId": "2105",
+                "occupant": null
+            },
+            {
+                "lockerId": "2106",
+                "occupant": null
+            },
+            {
+                "lockerId": "2107",
+                "occupant": null
+            },
+            {
+                "lockerId": "2108",
+                "occupant": null
+            },
+            {
+                "lockerId": "2109",
+                "occupant": null
+            },
+            {
+                "lockerId": "2110",
+                "occupant": null
+            },
+            {
+                "lockerId": "2111",
+                "occupant": null
+            },
+            {
+                "lockerId": "2112",
+                "occupant": null
+            }
+        ]
+    },
+    {
+        "semester": "Spring 2022",
+        "l_list": [
+            {
+                "lockerId": "B001",
+                "occupant": null
+            },
+            {
+                "lockerId": "B002",
+                "occupant": null
+            },
+            {
+                "lockerId": "B003",
+                "occupant": null
+            },
+            {
+                "lockerId": "B004",
+                "occupant": null
+            },
+            {
+                "lockerId": "B005",
+                "occupant": null
+            },
+            {
+                "lockerId": "B006",
+                "occupant": null
+            },
+            {
+                "lockerId": "B007",
+                "occupant": null
+            },
+            {
+                "lockerId": "B008",
+                "occupant": null
+            },
+            {
+                "lockerId": "B009",
+                "occupant": null
+            },
+            {
+                "lockerId": "B010",
+                "occupant": null
+            },
+            {
+                "lockerId": "B011",
+                "occupant": null
+            },
+            {
+                "lockerId": "B012",
+                "occupant": null
+            },
+            {
+                "lockerId": "B013",
+                "occupant": {
+                    "name": "Pura-Quilla",
+                    "id": "0297734",
+                    "phone": "917-658-2681",
+                    "email": "jpuraquilla@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "B014",
+                "occupant": null
+            },
+            {
+                "lockerId": "B015",
+                "occupant": null
+            },
+            {
+                "lockerId": "B016",
+                "occupant": null
+            },
+            {
+                "lockerId": "B017",
+                "occupant": null
+            },
+            {
+                "lockerId": "B018",
+                "occupant": null
+            },
+            {
+                "lockerId": "B019",
+                "occupant": null
+            },
+            {
+                "lockerId": "B020",
+                "occupant": null
+            },
+            {
+                "lockerId": "B021",
+                "occupant": null
+            },
+            {
+                "lockerId": "B022",
+                "occupant": null
+            },
+            {
+                "lockerId": "B023",
+                "occupant": null
+            },
+            {
+                "lockerId": "B024",
+                "occupant": null
+            },
+            {
+                "lockerId": "B025",
+                "occupant": null
+            },
+            {
+                "lockerId": "B026",
+                "occupant": null
+            },
+            {
+                "lockerId": "B027",
+                "occupant": null
+            },
+            {
+                "lockerId": "B028",
+                "occupant": null
+            },
+            {
+                "lockerId": "B029",
+                "occupant": null
+            },
+            {
+                "lockerId": "B030",
+                "occupant": null
+            },
+            {
+                "lockerId": "B031",
+                "occupant": null
+            },
+            {
+                "lockerId": "B032",
+                "occupant": null
+            },
+            {
+                "lockerId": "B033",
+                "occupant": null
+            },
+            {
+                "lockerId": "B034",
+                "occupant": null
+            },
+            {
+                "lockerId": "B035",
+                "occupant": {
+                    "name": "Julie Marie",
+                    "id": "0087642",
+                    "phone": "201-736-5904",
+                    "email": "jseibert@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "B036",
+                "occupant": null
+            },
+            {
+                "lockerId": "B037",
+                "occupant": null
+            },
+            {
+                "lockerId": "B038",
+                "occupant": null
+            },
+            {
+                "lockerId": "B039",
+                "occupant": null
+            },
+            {
+                "lockerId": "B040",
+                "occupant": null
+            },
+            {
+                "lockerId": "B041",
+                "occupant": null
+            },
+            {
+                "lockerId": "B042",
+                "occupant": null
+            },
+            {
+                "lockerId": "B043",
+                "occupant": null
+            },
+            {
+                "lockerId": "B044",
+                "occupant": null
+            },
+            {
+                "lockerId": "B045",
+                "occupant": null
+            },
+            {
+                "lockerId": "B046",
+                "occupant": null
+            },
+            {
+                "lockerId": "B047",
+                "occupant": null
+            },
+            {
+                "lockerId": "B048",
+                "occupant": null
+            },
+            {
+                "lockerId": "B049",
+                "occupant": null
+            },
+            {
+                "lockerId": "B050",
+                "occupant": null
+            },
+            {
+                "lockerId": "B051",
+                "occupant": null
+            },
+            {
+                "lockerId": "B052",
+                "occupant": null
+            },
+            {
+                "lockerId": "B053",
+                "occupant": null
+            },
+            {
+                "lockerId": "B054",
+                "occupant": null
+            },
+            {
+                "lockerId": "B055",
+                "occupant": null
+            },
+            {
+                "lockerId": "B056",
+                "occupant": null
+            },
+            {
+                "lockerId": "B057",
+                "occupant": null
+            },
+            {
+                "lockerId": "B058",
+                "occupant": null
+            },
+            {
+                "lockerId": "B059",
+                "occupant": null
+            },
+            {
+                "lockerId": "B060",
+                "occupant": null
+            },
+            {
+                "lockerId": "B061",
+                "occupant": null
+            },
+            {
+                "lockerId": "B062",
+                "occupant": null
+            },
+            {
+                "lockerId": "B063",
+                "occupant": null
+            },
+            {
+                "lockerId": "B064",
+                "occupant": null
+            },
+            {
+                "lockerId": "B065",
+                "occupant": null
+            },
+            {
+                "lockerId": "B066",
+                "occupant": null
+            },
+            {
+                "lockerId": "B067",
+                "occupant": null
+            },
+            {
+                "lockerId": "B068",
+                "occupant": null
+            },
+            {
+                "lockerId": "B069",
+                "occupant": null
+            },
+            {
+                "lockerId": "B070",
+                "occupant": null
+            },
+            {
+                "lockerId": "B071",
+                "occupant": null
+            },
+            {
+                "lockerId": "B072",
+                "occupant": null
+            },
+            {
+                "lockerId": "B073",
+                "occupant": null
+            },
+            {
+                "lockerId": "B074",
+                "occupant": null
+            },
+            {
+                "lockerId": "B075",
+                "occupant": null
+            },
+            {
+                "lockerId": "B076",
+                "occupant": null
+            },
+            {
+                "lockerId": "B077",
+                "occupant": null
+            },
+            {
+                "lockerId": "B078",
+                "occupant": null
+            },
+            {
+                "lockerId": "B079",
+                "occupant": null
+            },
+            {
+                "lockerId": "B080",
+                "occupant": null
+            },
+            {
+                "lockerId": "B081",
+                "occupant": null
+            },
+            {
+                "lockerId": "B082",
+                "occupant": null
+            },
+            {
+                "lockerId": "B083",
+                "occupant": null
+            },
+            {
+                "lockerId": "B084",
+                "occupant": null
+            },
+            {
+                "lockerId": "B085",
+                "occupant": null
+            },
+            {
+                "lockerId": "B086",
+                "occupant": null
+            },
+            {
+                "lockerId": "B087",
+                "occupant": null
+            },
+            {
+                "lockerId": "B088",
+                "occupant": null
+            },
+            {
+                "lockerId": "B089",
+                "occupant": null
+            },
+            {
+                "lockerId": "B090",
+                "occupant": null
+            },
+            {
+                "lockerId": "B091",
+                "occupant": null
+            },
+            {
+                "lockerId": "B092",
+                "occupant": null
+            },
+            {
+                "lockerId": "B093",
+                "occupant": null
+            },
+            {
+                "lockerId": "B094",
+                "occupant": null
+            },
+            {
+                "lockerId": "B095",
+                "occupant": null
+            },
+            {
+                "lockerId": "B096",
+                "occupant": null
+            },
+            {
+                "lockerId": "B097",
+                "occupant": null
+            },
+            {
+                "lockerId": "B098",
+                "occupant": null
+            },
+            {
+                "lockerId": "B099",
+                "occupant": null
+            },
+            {
+                "lockerId": "B100",
+                "occupant": null
+            },
+            {
+                "lockerId": "B101",
+                "occupant": null
+            },
+            {
+                "lockerId": "B102",
+                "occupant": null
+            },
+            {
+                "lockerId": "B103",
+                "occupant": null
+            },
+            {
+                "lockerId": "B104",
+                "occupant": null
+            },
+            {
+                "lockerId": "B105",
+                "occupant": null
+            },
+            {
+                "lockerId": "B106",
+                "occupant": null
+            },
+            {
+                "lockerId": "B107",
+                "occupant": null
+            },
+            {
+                "lockerId": "B108",
+                "occupant": null
+            },
+            {
+                "lockerId": "B109",
+                "occupant": null
+            },
+            {
+                "lockerId": "B110",
+                "occupant": null
+            },
+            {
+                "lockerId": "B111",
+                "occupant": null
+            },
+            {
+                "lockerId": "B112",
+                "occupant": null
+            },
+            {
+                "lockerId": "B113",
+                "occupant": null
+            },
+            {
+                "lockerId": "B114",
+                "occupant": null
+            },
+            {
+                "lockerId": "B115",
+                "occupant": null
+            },
+            {
+                "lockerId": "B116",
+                "occupant": null
+            },
+            {
+                "lockerId": "B117",
+                "occupant": null
+            },
+            {
+                "lockerId": "B118",
+                "occupant": null
+            },
+            {
+                "lockerId": "B119",
+                "occupant": null
+            },
+            {
+                "lockerId": "B120",
+                "occupant": null
+            },
+            {
+                "lockerId": "B121",
+                "occupant": null
+            },
+            {
+                "lockerId": "B122",
+                "occupant": null
+            },
+            {
+                "lockerId": "B123",
+                "occupant": null
+            },
+            {
+                "lockerId": "B124",
+                "occupant": null
+            },
+            {
+                "lockerId": "B125",
+                "occupant": null
+            },
+            {
+                "lockerId": "B126",
+                "occupant": null
+            },
+            {
+                "lockerId": "B127",
+                "occupant": null
+            },
+            {
+                "lockerId": "B128",
+                "occupant": null
+            },
+            {
+                "lockerId": "1001",
+                "occupant": null
+            },
+            {
+                "lockerId": "1002",
+                "occupant": null
+            },
+            {
+                "lockerId": "1003",
+                "occupant": null
+            },
+            {
+                "lockerId": "1004",
+                "occupant": {
+                    "name": "Jonathan Izyegev",
+                    "id": "0370534",
+                    "phone": "732-337-4627",
+                    "email": "jizyegev@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1005",
+                "occupant": null
+            },
+            {
+                "lockerId": "1006",
+                "occupant": null
+            },
+            {
+                "lockerId": "1007",
+                "occupant": null
+            },
+            {
+                "lockerId": "1008",
+                "occupant": null
+            },
+            {
+                "lockerId": "1009",
+                "occupant": null
+            },
+            {
+                "lockerId": "1010",
+                "occupant": null
+            },
+            {
+                "lockerId": "1011",
+                "occupant": null
+            },
+            {
+                "lockerId": "1012",
+                "occupant": null
+            },
+            {
+                "lockerId": "1013",
+                "occupant": null
+            },
+            {
+                "lockerId": "1014",
+                "occupant": null
+            },
+            {
+                "lockerId": "1015",
+                "occupant": null
+            },
+            {
+                "lockerId": "1016",
+                "occupant": null
+            },
+            {
+                "lockerId": "1017",
+                "occupant": {
+                    "name": "Cedeno Cinthia",
+                    "id": "0263212",
+                    "phone": "551-556-9028",
+                    "email": "ccedeno@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1018",
+                "occupant": null
+            },
+            {
+                "lockerId": "1019",
+                "occupant": null
+            },
+            {
+                "lockerId": "1020",
+                "occupant": null
+            },
+            {
+                "lockerId": "1021",
+                "occupant": null
+            },
+            {
+                "lockerId": "1022",
+                "occupant": null
+            },
+            {
+                "lockerId": "1023",
+                "occupant": null
+            },
+            {
+                "lockerId": "1024",
+                "occupant": null
+            },
+            {
+                "lockerId": "1025",
+                "occupant": null
+            },
+            {
+                "lockerId": "1026",
+                "occupant": null
+            },
+            {
+                "lockerId": "1027",
+                "occupant": null
+            },
+            {
+                "lockerId": "1028",
+                "occupant": null
+            },
+            {
+                "lockerId": "1029",
+                "occupant": null
+            },
+            {
+                "lockerId": "1030",
+                "occupant": null
+            },
+            {
+                "lockerId": "1031",
+                "occupant": null
+            },
+            {
+                "lockerId": "1032",
+                "occupant": null
+            },
+            {
+                "lockerId": "1033",
+                "occupant": null
+            },
+            {
+                "lockerId": "1034",
+                "occupant": null
+            },
+            {
+                "lockerId": "1035",
+                "occupant": null
+            },
+            {
+                "lockerId": "1036",
+                "occupant": null
+            },
+            {
+                "lockerId": "1037",
+                "occupant": null
+            },
+            {
+                "lockerId": "1038",
+                "occupant": null
+            },
+            {
+                "lockerId": "1039",
+                "occupant": {
+                    "name": "Faviola Reyes ",
+                    "id": "0351744",
+                    "phone": "201-926-5808",
+                    "email": "sweetpea10831@gmail.com"
+                }
+            },
+            {
+                "lockerId": "1040",
+                "occupant": null
+            },
+            {
+                "lockerId": "1041",
+                "occupant": null
+            },
+            {
+                "lockerId": "1042",
+                "occupant": null
+            },
+            {
+                "lockerId": "1043",
+                "occupant": {
+                    "name": "Olivia Wilber",
+                    "id": "000403768",
+                    "phone": "973-698-5900",
+                    "email": "artbyliv@gmail.com"
+                }
+            },
+            {
+                "lockerId": "1044",
+                "occupant": null
+            },
+            {
+                "lockerId": "1045",
+                "occupant": null
+            },
+            {
+                "lockerId": "1046",
+                "occupant": null
+            },
+            {
+                "lockerId": "1047",
+                "occupant": {
+                    "name": "Abigail Ostorva",
+                    "id": "0397066",
+                    "phone": "201-799-7919",
+                    "email": "a.ostorva13@gmail.com"
+                }
+            },
+            {
+                "lockerId": "1048",
+                "occupant": null
+            },
+            {
+                "lockerId": "1049",
+                "occupant": {
+                    "name": "Kristina Martinez",
+                    "id": "0390334",
+                    "phone": "551-689-4049",
+                    "email": "kmartinez13@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1050",
+                "occupant": null
+            },
+            {
+                "lockerId": "1051",
+                "occupant": {
+                    "name": "Alexandra Gonzales",
+                    "id": "0380396",
+                    "phone": "973-687-8617",
+                    "email": "a_mg92@hotmail.com"
+                }
+            },
+            {
+                "lockerId": "1052",
+                "occupant": null
+            },
+            {
+                "lockerId": "1053",
+                "occupant": null
+            },
+            {
+                "lockerId": "1054",
+                "occupant": null
+            },
+            {
+                "lockerId": "1055",
+                "occupant": null
+            },
+            {
+                "lockerId": "1056",
+                "occupant": null
+            },
+            {
+                "lockerId": "1057",
+                "occupant": {
+                    "name": "Sandy Mones",
+                    "id": "381257",
+                    "phone": "347-896-3962",
+                    "email": "Sanmones.lu@gmail.com"
+                }
+            },
+            {
+                "lockerId": "1058",
+                "occupant": null
+            },
+            {
+                "lockerId": "1059",
+                "occupant": null
+            },
+            {
+                "lockerId": "1060",
+                "occupant": null
+            },
+            {
+                "lockerId": "1061",
+                "occupant": {
+                    "name": "Kaylee Chacon",
+                    "id": "0393754",
+                    "phone": "201-887-7966",
+                    "email": "kayleegaleas@gmail.com"
+                }
+            },
+            {
+                "lockerId": "1062",
+                "occupant": null
+            },
+            {
+                "lockerId": "1063",
+                "occupant": null
+            },
+            {
+                "lockerId": "1064",
+                "occupant": null
+            },
+            {
+                "lockerId": "1065",
+                "occupant": {
+                    "name": "Keiry Calero",
+                    "id": "0403551",
+                    "phone": "551-208-2665",
+                    "email": "keiry.calero@gmail.com"
+                }
+            },
+            {
+                "lockerId": "1066",
+                "occupant": null
+            },
+            {
+                "lockerId": "1067",
+                "occupant": {
+                    "name": "Lucero Torres",
+                    "id": "000399638",
+                    "phone": "908-374-4393",
+                    "email": "ltorres8@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1068",
+                "occupant": null
+            },
+            {
+                "lockerId": "1069",
+                "occupant": null
+            },
+            {
+                "lockerId": "1070",
+                "occupant": null
+            },
+            {
+                "lockerId": "1071",
+                "occupant": null
+            },
+            {
+                "lockerId": "1072",
+                "occupant": null
+            },
+            {
+                "lockerId": "1073",
+                "occupant": null
+            },
+            {
+                "lockerId": "1074",
+                "occupant": null
+            },
+            {
+                "lockerId": "1075",
+                "occupant": null
+            },
+            {
+                "lockerId": "1076",
+                "occupant": null
+            },
+            {
+                "lockerId": "1077",
+                "occupant": null
+            },
+            {
+                "lockerId": "1078",
+                "occupant": null
+            },
+            {
+                "lockerId": "1079",
+                "occupant": null
+            },
+            {
+                "lockerId": "1080",
+                "occupant": null
+            },
+            {
+                "lockerId": "1081",
+                "occupant": null
+            },
+            {
+                "lockerId": "1082",
+                "occupant": null
+            },
+            {
+                "lockerId": "1083",
+                "occupant": {
+                    "name": "Alexi Rios",
+                    "id": "0383274",
+                    "phone": "551-300-8767",
+                    "email": "alexirbonilla25@gmail.com"
+                }
+            },
+            {
+                "lockerId": "1084",
+                "occupant": null
+            },
+            {
+                "lockerId": "1085",
+                "occupant": {
+                    "name": "Taniekia Williams",
+                    "id": "0362057",
+                    "phone": "201-467-9281",
+                    "email": "twilliams512@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1086",
+                "occupant": null
+            },
+            {
+                "lockerId": "1087",
+                "occupant": null
+            },
+            {
+                "lockerId": "1088",
+                "occupant": null
+            },
+            {
+                "lockerId": "1089",
+                "occupant": null
+            },
+            {
+                "lockerId": "1090",
+                "occupant": null
+            },
+            {
+                "lockerId": "1091",
+                "occupant": null
+            },
+            {
+                "lockerId": "1092",
+                "occupant": null
+            },
+            {
+                "lockerId": "1093",
+                "occupant": null
+            },
+            {
+                "lockerId": "1094",
+                "occupant": null
+            },
+            {
+                "lockerId": "1095",
+                "occupant": null
+            },
+            {
+                "lockerId": "1096",
+                "occupant": null
+            },
+            {
+                "lockerId": "1097",
+                "occupant": null
+            },
+            {
+                "lockerId": "1098",
+                "occupant": null
+            },
+            {
+                "lockerId": "1099",
+                "occupant": null
+            },
+            {
+                "lockerId": "1100",
+                "occupant": null
+            },
+            {
+                "lockerId": "1101",
+                "occupant": null
+            },
+            {
+                "lockerId": "1102",
+                "occupant": null
+            },
+            {
+                "lockerId": "1103",
+                "occupant": null
+            },
+            {
+                "lockerId": "1104",
+                "occupant": null
+            },
+            {
+                "lockerId": "1105",
+                "occupant": null
+            },
+            {
+                "lockerId": "1106",
+                "occupant": null
+            },
+            {
+                "lockerId": "1107",
+                "occupant": null
+            },
+            {
+                "lockerId": "1108",
+                "occupant": null
+            },
+            {
+                "lockerId": "1109",
+                "occupant": null
+            },
+            {
+                "lockerId": "1110",
+                "occupant": null
+            },
+            {
+                "lockerId": "1111",
+                "occupant": null
+            },
+            {
+                "lockerId": "1112",
+                "occupant": null
+            },
+            {
+                "lockerId": "1113",
+                "occupant": null
+            },
+            {
+                "lockerId": "1114",
+                "occupant": null
+            },
+            {
+                "lockerId": "1115",
+                "occupant": null
+            },
+            {
+                "lockerId": "1116",
+                "occupant": null
+            },
+            {
+                "lockerId": "1117",
+                "occupant": null
+            },
+            {
+                "lockerId": "1118",
+                "occupant": null
+            },
+            {
+                "lockerId": "1119",
+                "occupant": null
+            },
+            {
+                "lockerId": "1120",
+                "occupant": null
+            },
+            {
+                "lockerId": "1121",
+                "occupant": null
+            },
+            {
+                "lockerId": "1122",
+                "occupant": null
+            },
+            {
+                "lockerId": "1123",
+                "occupant": null
+            },
+            {
+                "lockerId": "1124",
+                "occupant": null
+            },
+            {
+                "lockerId": "1125",
+                "occupant": null
+            },
+            {
+                "lockerId": "1126",
+                "occupant": null
+            },
+            {
+                "lockerId": "1127",
+                "occupant": null
+            },
+            {
+                "lockerId": "1128",
+                "occupant": null
+            },
+            {
+                "lockerId": "2001",
+                "occupant": {
+                    "name": "Bella Gonzolez",
+                    "id": "0397669",
+                    "phone": "973-330-7889",
+                    "email": "agonzalez35@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "2002",
+                "occupant": null
+            },
+            {
+                "lockerId": "2003",
+                "occupant": null
+            },
+            {
+                "lockerId": "2004",
+                "occupant": null
+            },
+            {
+                "lockerId": "2005",
+                "occupant": null
+            },
+            {
+                "lockerId": "2006",
+                "occupant": null
+            },
+            {
+                "lockerId": "2007",
+                "occupant": null
+            },
+            {
+                "lockerId": "2008",
+                "occupant": null
+            },
+            {
+                "lockerId": "2009",
+                "occupant": null
+            },
+            {
+                "lockerId": "2010",
+                "occupant": {
+                    "name": "Denise Abadies",
+                    "id": "0402293",
+                    "phone": "551-267-4580",
+                    "email": "dabadies@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "2011",
+                "occupant": null
+            },
+            {
+                "lockerId": "2012",
+                "occupant": null
+            },
+            {
+                "lockerId": "2013",
+                "occupant": null
+            },
+            {
+                "lockerId": "2014",
+                "occupant": null
+            },
+            {
+                "lockerId": "2015",
+                "occupant": null
+            },
+            {
+                "lockerId": "2016",
+                "occupant": null
+            },
+            {
+                "lockerId": "2017",
+                "occupant": {
+                    "name": "Agustina Cueto ",
+                    "id": "0396356",
+                    "phone": "551-482-8790",
+                    "email": "acueto@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "2018",
+                "occupant": null
+            },
+            {
+                "lockerId": "2019",
+                "occupant": {
+                    "name": "Jacquelyn Portillo ",
+                    "id": "0317499",
+                    "phone": "551-497-3473",
+                    "email": "jportillo3@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "2020",
+                "occupant": null
+            },
+            {
+                "lockerId": "2021",
+                "occupant": null
+            },
+            {
+                "lockerId": "2022",
+                "occupant": null
+            },
+            {
+                "lockerId": "2023",
+                "occupant": null
+            },
+            {
+                "lockerId": "2024",
+                "occupant": null
+            },
+            {
+                "lockerId": "2025",
+                "occupant": null
+            },
+            {
+                "lockerId": "2026",
+                "occupant": null
+            },
+            {
+                "lockerId": "2027",
+                "occupant": {
+                    "name": "Quara Phillips-Mill",
+                    "id": "0395649",
+                    "phone": "862-289-4245",
+                    "email": "qphillipshill@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "2028",
+                "occupant": null
+            },
+            {
+                "lockerId": "2029",
+                "occupant": null
+            },
+            {
+                "lockerId": "2030",
+                "occupant": null
+            },
+            {
+                "lockerId": "2031",
+                "occupant": null
+            },
+            {
+                "lockerId": "2032",
+                "occupant": null
+            },
+            {
+                "lockerId": "2033",
+                "occupant": {
+                    "name": "Fabiana Urbina",
+                    "id": "0393451",
+                    "phone": "551-242-9948",
+                    "email": "Fabianavum@gmail.com"
+                }
+            },
+            {
+                "lockerId": "2034",
+                "occupant": null
+            },
+            {
+                "lockerId": "2035",
+                "occupant": null
+            },
+            {
+                "lockerId": "2036",
+                "occupant": null
+            },
+            {
+                "lockerId": "2037",
+                "occupant": null
+            },
+            {
+                "lockerId": "2038",
+                "occupant": null
+            },
+            {
+                "lockerId": "2039",
+                "occupant": null
+            },
+            {
+                "lockerId": "2040",
+                "occupant": null
+            },
+            {
+                "lockerId": "2041",
+                "occupant": null
+            },
+            {
+                "lockerId": "2042",
+                "occupant": null
+            },
+            {
+                "lockerId": "2043",
+                "occupant": null
+            },
+            {
+                "lockerId": "2044",
+                "occupant": null
+            },
+            {
+                "lockerId": "2045",
+                "occupant": null
+            },
+            {
+                "lockerId": "2046",
+                "occupant": null
+            },
+            {
+                "lockerId": "2047",
+                "occupant": null
+            },
+            {
+                "lockerId": "2048",
+                "occupant": null
+            },
+            {
+                "lockerId": "2049",
+                "occupant": null
+            },
+            {
+                "lockerId": "2050",
+                "occupant": null
+            },
+            {
+                "lockerId": "2051",
+                "occupant": null
+            },
+            {
+                "lockerId": "2052",
+                "occupant": null
+            },
+            {
+                "lockerId": "2053",
+                "occupant": null
+            },
+            {
+                "lockerId": "2054",
+                "occupant": null
+            },
+            {
+                "lockerId": "2055",
+                "occupant": null
+            },
+            {
+                "lockerId": "2056",
+                "occupant": null
+            },
+            {
+                "lockerId": "2057",
+                "occupant": null
+            },
+            {
+                "lockerId": "2058",
+                "occupant": null
+            },
+            {
+                "lockerId": "2059",
+                "occupant": null
+            },
+            {
+                "lockerId": "2060",
+                "occupant": null
+            },
+            {
+                "lockerId": "2061",
+                "occupant": null
+            },
+            {
+                "lockerId": "2062",
+                "occupant": null
+            },
+            {
+                "lockerId": "2063",
+                "occupant": null
+            },
+            {
+                "lockerId": "2064",
+                "occupant": null
+            },
+            {
+                "lockerId": "2065",
+                "occupant": null
+            },
+            {
+                "lockerId": "2066",
+                "occupant": null
+            },
+            {
+                "lockerId": "2067",
+                "occupant": null
+            },
+            {
+                "lockerId": "2068",
+                "occupant": null
+            },
+            {
+                "lockerId": "2069",
+                "occupant": null
+            },
+            {
+                "lockerId": "2070",
+                "occupant": null
+            },
+            {
+                "lockerId": "2071",
+                "occupant": null
+            },
+            {
+                "lockerId": "2072",
+                "occupant": null
+            },
+            {
+                "lockerId": "2073",
+                "occupant": null
+            },
+            {
+                "lockerId": "2074",
+                "occupant": null
+            },
+            {
+                "lockerId": "2075",
+                "occupant": null
+            },
+            {
+                "lockerId": "2076",
+                "occupant": null
+            },
+            {
+                "lockerId": "2077",
+                "occupant": null
+            },
+            {
+                "lockerId": "2078",
+                "occupant": null
+            },
+            {
+                "lockerId": "2079",
+                "occupant": null
+            },
+            {
+                "lockerId": "2080",
+                "occupant": null
+            },
+            {
+                "lockerId": "2081",
+                "occupant": null
+            },
+            {
+                "lockerId": "2082",
+                "occupant": null
+            },
+            {
+                "lockerId": "2083",
+                "occupant": null
+            },
+            {
+                "lockerId": "2084",
+                "occupant": null
+            },
+            {
+                "lockerId": "2085",
+                "occupant": null
+            },
+            {
+                "lockerId": "2086",
+                "occupant": null
+            },
+            {
+                "lockerId": "2087",
+                "occupant": null
+            },
+            {
+                "lockerId": "2088",
+                "occupant": null
+            },
+            {
+                "lockerId": "2089",
+                "occupant": null
+            },
+            {
+                "lockerId": "2090",
+                "occupant": null
+            },
+            {
+                "lockerId": "2091",
+                "occupant": null
+            },
+            {
+                "lockerId": "2092",
+                "occupant": null
+            },
+            {
+                "lockerId": "2093",
+                "occupant": null
+            },
+            {
+                "lockerId": "2094",
+                "occupant": null
+            },
+            {
+                "lockerId": "2095",
+                "occupant": {
+                    "name": "Sofia Nolasco",
+                    "id": "0362161",
+                    "phone": "201-375-1606",
+                    "email": "snolasco@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "2096",
+                "occupant": null
+            },
+            {
+                "lockerId": "2097",
+                "occupant": null
+            },
+            {
+                "lockerId": "2098",
+                "occupant": null
+            },
+            {
+                "lockerId": "2099",
+                "occupant": null
+            },
+            {
+                "lockerId": "2100",
+                "occupant": null
+            },
+            {
+                "lockerId": "2101",
+                "occupant": null
+            },
+            {
+                "lockerId": "2102",
+                "occupant": null
+            },
+            {
+                "lockerId": "2103",
+                "occupant": null
+            },
+            {
+                "lockerId": "2104",
+                "occupant": null
+            },
+            {
+                "lockerId": "2105",
+                "occupant": null
+            },
+            {
+                "lockerId": "2106",
+                "occupant": null
+            },
+            {
+                "lockerId": "2107",
+                "occupant": null
+            },
+            {
+                "lockerId": "2108",
+                "occupant": null
+            },
+            {
+                "lockerId": "2109",
+                "occupant": null
+            },
+            {
+                "lockerId": "2110",
+                "occupant": null
+            },
+            {
+                "lockerId": "2111",
+                "occupant": null
+            },
+            {
+                "lockerId": "2112",
+                "occupant": null
+            }
+        ]
+    },
+    {
+        "semester": "Fall 2022",
+        "l_list": [
+            {
+                "lockerId": "B001",
+                "occupant": null
+            },
+            {
+                "lockerId": "B002",
+                "occupant": null
+            },
+            {
+                "lockerId": "B003",
+                "occupant": null
+            },
+            {
+                "lockerId": "B004",
+                "occupant": null
+            },
+            {
+                "lockerId": "B005",
+                "occupant": null
+            },
+            {
+                "lockerId": "B006",
+                "occupant": null
+            },
+            {
+                "lockerId": "B007",
+                "occupant": null
+            },
+            {
+                "lockerId": "B008",
+                "occupant": null
+            },
+            {
+                "lockerId": "B009",
+                "occupant": null
+            },
+            {
+                "lockerId": "B010",
+                "occupant": null
+            },
+            {
+                "lockerId": "B011",
+                "occupant": null
+            },
+            {
+                "lockerId": "B012",
+                "occupant": null
+            },
+            {
+                "lockerId": "B013",
+                "occupant": null
+            },
+            {
+                "lockerId": "B014",
+                "occupant": null
+            },
+            {
+                "lockerId": "B015",
+                "occupant": null
+            },
+            {
+                "lockerId": "B016",
+                "occupant": null
+            },
+            {
+                "lockerId": "B017",
+                "occupant": null
+            },
+            {
+                "lockerId": "B018",
+                "occupant": null
+            },
+            {
+                "lockerId": "B019",
+                "occupant": null
+            },
+            {
+                "lockerId": "B020",
+                "occupant": null
+            },
+            {
+                "lockerId": "B021",
+                "occupant": null
+            },
+            {
+                "lockerId": "B022",
+                "occupant": null
+            },
+            {
+                "lockerId": "B023",
+                "occupant": null
+            },
+            {
+                "lockerId": "B024",
+                "occupant": null
+            },
+            {
+                "lockerId": "B025",
+                "occupant": null
+            },
+            {
+                "lockerId": "B026",
+                "occupant": null
+            },
+            {
+                "lockerId": "B027",
+                "occupant": null
+            },
+            {
+                "lockerId": "B028",
+                "occupant": null
+            },
+            {
+                "lockerId": "B029",
+                "occupant": null
+            },
+            {
+                "lockerId": "B030",
+                "occupant": null
+            },
+            {
+                "lockerId": "B031",
+                "occupant": null
+            },
+            {
+                "lockerId": "B032",
+                "occupant": null
+            },
+            {
+                "lockerId": "B033",
+                "occupant": null
+            },
+            {
+                "lockerId": "B034",
+                "occupant": null
+            },
+            {
+                "lockerId": "B035",
+                "occupant": null
+            },
+            {
+                "lockerId": "B036",
+                "occupant": null
+            },
+            {
+                "lockerId": "B037",
+                "occupant": null
+            },
+            {
+                "lockerId": "B038",
+                "occupant": null
+            },
+            {
+                "lockerId": "B039",
+                "occupant": null
+            },
+            {
+                "lockerId": "B040",
+                "occupant": null
+            },
+            {
+                "lockerId": "B041",
+                "occupant": null
+            },
+            {
+                "lockerId": "B042",
+                "occupant": null
+            },
+            {
+                "lockerId": "B043",
+                "occupant": null
+            },
+            {
+                "lockerId": "B044",
+                "occupant": null
+            },
+            {
+                "lockerId": "B045",
+                "occupant": null
+            },
+            {
+                "lockerId": "B046",
+                "occupant": null
+            },
+            {
+                "lockerId": "B047",
+                "occupant": null
+            },
+            {
+                "lockerId": "B048",
+                "occupant": null
+            },
+            {
+                "lockerId": "B049",
+                "occupant": null
+            },
+            {
+                "lockerId": "B050",
+                "occupant": null
+            },
+            {
+                "lockerId": "B051",
+                "occupant": null
+            },
+            {
+                "lockerId": "B052",
+                "occupant": null
+            },
+            {
+                "lockerId": "B053",
+                "occupant": null
+            },
+            {
+                "lockerId": "B054",
+                "occupant": null
+            },
+            {
+                "lockerId": "B055",
+                "occupant": null
+            },
+            {
+                "lockerId": "B056",
+                "occupant": null
+            },
+            {
+                "lockerId": "B057",
+                "occupant": null
+            },
+            {
+                "lockerId": "B058",
+                "occupant": null
+            },
+            {
+                "lockerId": "B059",
+                "occupant": null
+            },
+            {
+                "lockerId": "B060",
+                "occupant": null
+            },
+            {
+                "lockerId": "B061",
+                "occupant": null
+            },
+            {
+                "lockerId": "B062",
+                "occupant": null
+            },
+            {
+                "lockerId": "B063",
+                "occupant": null
+            },
+            {
+                "lockerId": "B064",
+                "occupant": null
+            },
+            {
+                "lockerId": "B065",
+                "occupant": null
+            },
+            {
+                "lockerId": "B066",
+                "occupant": null
+            },
+            {
+                "lockerId": "B067",
+                "occupant": null
+            },
+            {
+                "lockerId": "B068",
+                "occupant": null
+            },
+            {
+                "lockerId": "B069",
+                "occupant": null
+            },
+            {
+                "lockerId": "B070",
+                "occupant": null
+            },
+            {
+                "lockerId": "B071",
+                "occupant": null
+            },
+            {
+                "lockerId": "B072",
+                "occupant": null
+            },
+            {
+                "lockerId": "B073",
+                "occupant": null
+            },
+            {
+                "lockerId": "B074",
+                "occupant": null
+            },
+            {
+                "lockerId": "B075",
+                "occupant": null
+            },
+            {
+                "lockerId": "B076",
+                "occupant": null
+            },
+            {
+                "lockerId": "B077",
+                "occupant": null
+            },
+            {
+                "lockerId": "B078",
+                "occupant": null
+            },
+            {
+                "lockerId": "B079",
+                "occupant": null
+            },
+            {
+                "lockerId": "B080",
+                "occupant": null
+            },
+            {
+                "lockerId": "B081",
+                "occupant": null
+            },
+            {
+                "lockerId": "B082",
+                "occupant": null
+            },
+            {
+                "lockerId": "B083",
+                "occupant": null
+            },
+            {
+                "lockerId": "B084",
+                "occupant": null
+            },
+            {
+                "lockerId": "B085",
+                "occupant": null
+            },
+            {
+                "lockerId": "B086",
+                "occupant": null
+            },
+            {
+                "lockerId": "B087",
+                "occupant": null
+            },
+            {
+                "lockerId": "B088",
+                "occupant": null
+            },
+            {
+                "lockerId": "B089",
+                "occupant": null
+            },
+            {
+                "lockerId": "B090",
+                "occupant": null
+            },
+            {
+                "lockerId": "B091",
+                "occupant": null
+            },
+            {
+                "lockerId": "B092",
+                "occupant": null
+            },
+            {
+                "lockerId": "B093",
+                "occupant": null
+            },
+            {
+                "lockerId": "B094",
+                "occupant": null
+            },
+            {
+                "lockerId": "B095",
+                "occupant": null
+            },
+            {
+                "lockerId": "B096",
+                "occupant": null
+            },
+            {
+                "lockerId": "B097",
+                "occupant": null
+            },
+            {
+                "lockerId": "B098",
+                "occupant": null
+            },
+            {
+                "lockerId": "B099",
+                "occupant": null
+            },
+            {
+                "lockerId": "B100",
+                "occupant": null
+            },
+            {
+                "lockerId": "B101",
+                "occupant": null
+            },
+            {
+                "lockerId": "B102",
+                "occupant": null
+            },
+            {
+                "lockerId": "B103",
+                "occupant": null
+            },
+            {
+                "lockerId": "B104",
+                "occupant": null
+            },
+            {
+                "lockerId": "B105",
+                "occupant": null
+            },
+            {
+                "lockerId": "B106",
+                "occupant": null
+            },
+            {
+                "lockerId": "B107",
+                "occupant": null
+            },
+            {
+                "lockerId": "B108",
+                "occupant": null
+            },
+            {
+                "lockerId": "B109",
+                "occupant": null
+            },
+            {
+                "lockerId": "B110",
+                "occupant": null
+            },
+            {
+                "lockerId": "B111",
+                "occupant": null
+            },
+            {
+                "lockerId": "B112",
+                "occupant": null
+            },
+            {
+                "lockerId": "B113",
+                "occupant": null
+            },
+            {
+                "lockerId": "B114",
+                "occupant": null
+            },
+            {
+                "lockerId": "B115",
+                "occupant": null
+            },
+            {
+                "lockerId": "B116",
+                "occupant": null
+            },
+            {
+                "lockerId": "B117",
+                "occupant": null
+            },
+            {
+                "lockerId": "B118",
+                "occupant": null
+            },
+            {
+                "lockerId": "B119",
+                "occupant": null
+            },
+            {
+                "lockerId": "B120",
+                "occupant": null
+            },
+            {
+                "lockerId": "B121",
+                "occupant": null
+            },
+            {
+                "lockerId": "B122",
+                "occupant": null
+            },
+            {
+                "lockerId": "B123",
+                "occupant": null
+            },
+            {
+                "lockerId": "B124",
+                "occupant": null
+            },
+            {
+                "lockerId": "B125",
+                "occupant": null
+            },
+            {
+                "lockerId": "B126",
+                "occupant": null
+            },
+            {
+                "lockerId": "B127",
+                "occupant": null
+            },
+            {
+                "lockerId": "B128",
+                "occupant": null
+            },
+            {
+                "lockerId": "1001",
+                "occupant": null
+            },
+            {
+                "lockerId": "1002",
+                "occupant": null
+            },
+            {
+                "lockerId": "1003",
+                "occupant": null
+            },
+            {
+                "lockerId": "1004",
+                "occupant": {
+                    "name": "Jonathan Izyeyea",
+                    "id": "0370534",
+                    "phone": "7323574127",
+                    "email": "jizyeyea@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1005",
+                "occupant": null
+            },
+            {
+                "lockerId": "1006",
+                "occupant": null
+            },
+            {
+                "lockerId": "1007",
+                "occupant": null
+            },
+            {
+                "lockerId": "1008",
+                "occupant": null
+            },
+            {
+                "lockerId": "1009",
+                "occupant": null
+            },
+            {
+                "lockerId": "1010",
+                "occupant": null
+            },
+            {
+                "lockerId": "1011",
+                "occupant": null
+            },
+            {
+                "lockerId": "1012",
+                "occupant": null
+            },
+            {
+                "lockerId": "1013",
+                "occupant": null
+            },
+            {
+                "lockerId": "1014",
+                "occupant": null
+            },
+            {
+                "lockerId": "1015",
+                "occupant": null
+            },
+            {
+                "lockerId": "1016",
+                "occupant": null
+            },
+            {
+                "lockerId": "1017",
+                "occupant": {
+                    "name": "Isabelle Legaspi",
+                    "id": "0396563",
+                    "phone": "2012341336",
+                    "email": "ilegaspi@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1018",
+                "occupant": null
+            },
+            {
+                "lockerId": "1019",
+                "occupant": null
+            },
+            {
+                "lockerId": "1020",
+                "occupant": null
+            },
+            {
+                "lockerId": "1021",
+                "occupant": null
+            },
+            {
+                "lockerId": "1022",
+                "occupant": null
+            },
+            {
+                "lockerId": "1023",
+                "occupant": null
+            },
+            {
+                "lockerId": "1024",
+                "occupant": null
+            },
+            {
+                "lockerId": "1025",
+                "occupant": null
+            },
+            {
+                "lockerId": "1026",
+                "occupant": null
+            },
+            {
+                "lockerId": "1027",
+                "occupant": null
+            },
+            {
+                "lockerId": "1028",
+                "occupant": null
+            },
+            {
+                "lockerId": "1029",
+                "occupant": null
+            },
+            {
+                "lockerId": "1030",
+                "occupant": null
+            },
+            {
+                "lockerId": "1031",
+                "occupant": null
+            },
+            {
+                "lockerId": "1032",
+                "occupant": null
+            },
+            {
+                "lockerId": "1033",
+                "occupant": {
+                    "name": "Alyssa Hong",
+                    "id": "319945",
+                    "phone": "5516976167",
+                    "email": "ahong@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1034",
+                "occupant": null
+            },
+            {
+                "lockerId": "1035",
+                "occupant": {
+                    "name": "Elson Reyes jr",
+                    "id": "0392560",
+                    "phone": "2014270509",
+                    "email": "erayes9@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1036",
+                "occupant": null
+            },
+            {
+                "lockerId": "1037",
+                "occupant": null
+            },
+            {
+                "lockerId": "1038",
+                "occupant": null
+            },
+            {
+                "lockerId": "1039",
+                "occupant": null
+            },
+            {
+                "lockerId": "1040",
+                "occupant": null
+            },
+            {
+                "lockerId": "1041",
+                "occupant": null
+            },
+            {
+                "lockerId": "1042",
+                "occupant": null
+            },
+            {
+                "lockerId": "1043",
+                "occupant": null
+            },
+            {
+                "lockerId": "1044",
+                "occupant": null
+            },
+            {
+                "lockerId": "1045",
+                "occupant": null
+            },
+            {
+                "lockerId": "1046",
+                "occupant": null
+            },
+            {
+                "lockerId": "1047",
+                "occupant": {
+                    "name": "Dickerson Tracel",
+                    "id": "0280605",
+                    "phone": "2912946724",
+                    "email": "tdickerson1@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1048",
+                "occupant": null
+            },
+            {
+                "lockerId": "1049",
+                "occupant": {
+                    "name": "Aaliyah Montgomery",
+                    "id": "0398997",
+                    "phone": "5515743332",
+                    "email": "amontgomery7@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1050",
+                "occupant": {
+                    "name": "Alieen Herrera-Ojeda",
+                    "id": "0420981",
+                    "phone": "2018509692",
+                    "email": "aherreraojeda@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1051",
+                "occupant": {
+                    "name": "Alexandra Gonzales",
+                    "id": "0380396",
+                    "phone": "9736878617",
+                    "email": "a_mgaz@hotmail.com"
+                }
+            },
+            {
+                "lockerId": "1052",
+                "occupant": {
+                    "name": "Ayanna Braxton",
+                    "id": "0384933",
+                    "phone": "9737106322",
+                    "email": "abraxton@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1053",
+                "occupant": null
+            },
+            {
+                "lockerId": "1054",
+                "occupant": {
+                    "name": "Elena Isabelle Balmes",
+                    "id": "0390932",
+                    "phone": "2016801568",
+                    "email": "elenabalmes102gmail.com"
+                }
+            },
+            {
+                "lockerId": "1055",
+                "occupant": {
+                    "name": "Jonanney Terrero",
+                    "id": "0394487",
+                    "phone": "2016166427",
+                    "email": "jterrerosantana@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1056",
+                "occupant": {
+                    "name": "Fabiana Urbuna",
+                    "id": "0393451",
+                    "phone": "5512429948",
+                    "email": "furbuna@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1057",
+                "occupant": {
+                    "name": "Remi Brebant",
+                    "id": "0423323",
+                    "phone": "782379194",
+                    "email": "rbrebant@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1058",
+                "occupant": {
+                    "name": "Taeuk Kim",
+                    "id": "0423327",
+                    "phone": "None",
+                    "email": "tkim@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1059",
+                "occupant": {
+                    "name": "Jhakeer Johnson",
+                    "id": "0362866",
+                    "phone": "8623686025",
+                    "email": "jjohnson14@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1060",
+                "occupant": {
+                    "name": "Montakim Majlis",
+                    "id": "0342452",
+                    "phone": "9252616412",
+                    "email": "montakim0118@gmail.com"
+                }
+            },
+            {
+                "lockerId": "1061",
+                "occupant": {
+                    "name": "Antointte Badger",
+                    "id": "0054132",
+                    "phone": "2016473921",
+                    "email": "None"
+                }
+            },
+            {
+                "lockerId": "1062",
+                "occupant": {
+                    "name": "Joan Gasper",
+                    "id": "0381326",
+                    "phone": "2016615548",
+                    "email": "jGasper@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1063",
+                "occupant": {
+                    "name": "Je'Niyah Collins",
+                    "id": "040582",
+                    "phone": "8622416422",
+                    "email": "jcollins1@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1064",
+                "occupant": {
+                    "name": "Mildred Roman",
+                    "id": "0311614",
+                    "phone": "5512262920",
+                    "email": "mroman2@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1065",
+                "occupant": {
+                    "name": "Henry Austin",
+                    "id": "0374187",
+                    "phone": "2015897963",
+                    "email": "autinhenry222@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1066",
+                "occupant": {
+                    "name": "Rubi Ramirez",
+                    "id": "0403687",
+                    "phone": "2019521078",
+                    "email": "RubiRamirezbelen@gmail.com"
+                }
+            },
+            {
+                "lockerId": "1067",
+                "occupant": {
+                    "name": "Walter Orellana",
+                    "id": "0346221",
+                    "phone": "8482444549",
+                    "email": "worellana1@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1068",
+                "occupant": {
+                    "name": "Rabia Khilji",
+                    "id": "0372387",
+                    "phone": "5512718528",
+                    "email": "rabiakhilji2@gmail.com"
+                }
+            },
+            {
+                "lockerId": "1069",
+                "occupant": null
+            },
+            {
+                "lockerId": "1070",
+                "occupant": null
+            },
+            {
+                "lockerId": "1071",
+                "occupant": {
+                    "name": "Rachel Gapasin",
+                    "id": "0396505",
+                    "phone": "2015774042",
+                    "email": "rgapasin1@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1072",
+                "occupant": null
+            },
+            {
+                "lockerId": "1073",
+                "occupant": null
+            },
+            {
+                "lockerId": "1074",
+                "occupant": null
+            },
+            {
+                "lockerId": "1075",
+                "occupant": {
+                    "name": "Adnienne Rivera",
+                    "id": "0419048",
+                    "phone": "8482319571",
+                    "email": "arivera25@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1076",
+                "occupant": null
+            },
+            {
+                "lockerId": "1077",
+                "occupant": null
+            },
+            {
+                "lockerId": "1078",
+                "occupant": null
+            },
+            {
+                "lockerId": "1079",
+                "occupant": null
+            },
+            {
+                "lockerId": "1080",
+                "occupant": null
+            },
+            {
+                "lockerId": "1081",
+                "occupant": {
+                    "name": "Sandy Mones",
+                    "id": "None",
+                    "phone": "3478963962",
+                    "email": "sanmones.lu@gmail.com"
+                }
+            },
+            {
+                "lockerId": "1082",
+                "occupant": null
+            },
+            {
+                "lockerId": "1083",
+                "occupant": null
+            },
+            {
+                "lockerId": "1084",
+                "occupant": null
+            },
+            {
+                "lockerId": "1085",
+                "occupant": null
+            },
+            {
+                "lockerId": "1086",
+                "occupant": null
+            },
+            {
+                "lockerId": "1087",
+                "occupant": null
+            },
+            {
+                "lockerId": "1088",
+                "occupant": null
+            },
+            {
+                "lockerId": "1089",
+                "occupant": null
+            },
+            {
+                "lockerId": "1090",
+                "occupant": null
+            },
+            {
+                "lockerId": "1091",
+                "occupant": null
+            },
+            {
+                "lockerId": "1092",
+                "occupant": null
+            },
+            {
+                "lockerId": "1093",
+                "occupant": {
+                    "name": "Jeremie Cabrera",
+                    "id": "",
+                    "phone": "2015959631",
+                    "email": "jeremiecabrera21@gmail.com"
+                }
+            },
+            {
+                "lockerId": "1094",
+                "occupant": null
+            },
+            {
+                "lockerId": "1095",
+                "occupant": null
+            },
+            {
+                "lockerId": "1096",
+                "occupant": null
+            },
+            {
+                "lockerId": "1097",
+                "occupant": null
+            },
+            {
+                "lockerId": "1098",
+                "occupant": null
+            },
+            {
+                "lockerId": "1099",
+                "occupant": null
+            },
+            {
+                "lockerId": "1100",
+                "occupant": null
+            },
+            {
+                "lockerId": "1101",
+                "occupant": null
+            },
+            {
+                "lockerId": "1102",
+                "occupant": null
+            },
+            {
+                "lockerId": "1103",
+                "occupant": null
+            },
+            {
+                "lockerId": "1104",
+                "occupant": null
+            },
+            {
+                "lockerId": "1105",
+                "occupant": null
+            },
+            {
+                "lockerId": "1106",
+                "occupant": null
+            },
+            {
+                "lockerId": "1107",
+                "occupant": null
+            },
+            {
+                "lockerId": "1108",
+                "occupant": null
+            },
+            {
+                "lockerId": "1109",
+                "occupant": null
+            },
+            {
+                "lockerId": "1110",
+                "occupant": null
+            },
+            {
+                "lockerId": "1111",
+                "occupant": null
+            },
+            {
+                "lockerId": "1112",
+                "occupant": null
+            },
+            {
+                "lockerId": "1113",
+                "occupant": null
+            },
+            {
+                "lockerId": "1114",
+                "occupant": null
+            },
+            {
+                "lockerId": "1115",
+                "occupant": null
+            },
+            {
+                "lockerId": "1116",
+                "occupant": null
+            },
+            {
+                "lockerId": "1117",
+                "occupant": null
+            },
+            {
+                "lockerId": "1118",
+                "occupant": null
+            },
+            {
+                "lockerId": "1119",
+                "occupant": null
+            },
+            {
+                "lockerId": "1120",
+                "occupant": null
+            },
+            {
+                "lockerId": "1121",
+                "occupant": null
+            },
+            {
+                "lockerId": "1122",
+                "occupant": null
+            },
+            {
+                "lockerId": "1123",
+                "occupant": null
+            },
+            {
+                "lockerId": "1124",
+                "occupant": null
+            },
+            {
+                "lockerId": "1125",
+                "occupant": null
+            },
+            {
+                "lockerId": "1126",
+                "occupant": null
+            },
+            {
+                "lockerId": "1127",
+                "occupant": null
+            },
+            {
+                "lockerId": "1128",
+                "occupant": null
+            },
+            {
+                "lockerId": "2001",
+                "occupant": null
+            },
+            {
+                "lockerId": "2002",
+                "occupant": null
+            },
+            {
+                "lockerId": "2003",
+                "occupant": null
+            },
+            {
+                "lockerId": "2004",
+                "occupant": {
+                    "name": "Kweku Annan",
+                    "id": "0366522",
+                    "phone": "9087085427",
+                    "email": "kweku11@gmail.com"
+                }
+            },
+            {
+                "lockerId": "2005",
+                "occupant": null
+            },
+            {
+                "lockerId": "2006",
+                "occupant": null
+            },
+            {
+                "lockerId": "2007",
+                "occupant": null
+            },
+            {
+                "lockerId": "2008",
+                "occupant": null
+            },
+            {
+                "lockerId": "2009",
+                "occupant": null
+            },
+            {
+                "lockerId": "2010",
+                "occupant": null
+            },
+            {
+                "lockerId": "2011",
+                "occupant": null
+            },
+            {
+                "lockerId": "2012",
+                "occupant": null
+            },
+            {
+                "lockerId": "2013",
+                "occupant": null
+            },
+            {
+                "lockerId": "2014",
+                "occupant": null
+            },
+            {
+                "lockerId": "2015",
+                "occupant": null
+            },
+            {
+                "lockerId": "2016",
+                "occupant": null
+            },
+            {
+                "lockerId": "2017",
+                "occupant": {
+                    "name": "Kekhari Arnold",
+                    "id": "None",
+                    "phone": "2012818190",
+                    "email": "kekhariarnaold@gmail.com"
+                }
+            },
+            {
+                "lockerId": "2018",
+                "occupant": null
+            },
+            {
+                "lockerId": "2019",
+                "occupant": null
+            },
+            {
+                "lockerId": "2020",
+                "occupant": null
+            },
+            {
+                "lockerId": "2021",
+                "occupant": null
+            },
+            {
+                "lockerId": "2022",
+                "occupant": null
+            },
+            {
+                "lockerId": "2023",
+                "occupant": null
+            },
+            {
+                "lockerId": "2024",
+                "occupant": null
+            },
+            {
+                "lockerId": "2025",
+                "occupant": null
+            },
+            {
+                "lockerId": "2026",
+                "occupant": null
+            },
+            {
+                "lockerId": "2027",
+                "occupant": null
+            },
+            {
+                "lockerId": "2028",
+                "occupant": null
+            },
+            {
+                "lockerId": "2029",
+                "occupant": null
+            },
+            {
+                "lockerId": "2030",
+                "occupant": null
+            },
+            {
+                "lockerId": "2031",
+                "occupant": null
+            },
+            {
+                "lockerId": "2032",
+                "occupant": null
+            },
+            {
+                "lockerId": "2033",
+                "occupant": null
+            },
+            {
+                "lockerId": "2034",
+                "occupant": null
+            },
+            {
+                "lockerId": "2035",
+                "occupant": null
+            },
+            {
+                "lockerId": "2036",
+                "occupant": null
+            },
+            {
+                "lockerId": "2037",
+                "occupant": null
+            },
+            {
+                "lockerId": "2038",
+                "occupant": null
+            },
+            {
+                "lockerId": "2039",
+                "occupant": null
+            },
+            {
+                "lockerId": "2040",
+                "occupant": null
+            },
+            {
+                "lockerId": "2041",
+                "occupant": null
+            },
+            {
+                "lockerId": "2042",
+                "occupant": null
+            },
+            {
+                "lockerId": "2043",
+                "occupant": null
+            },
+            {
+                "lockerId": "2044",
+                "occupant": null
+            },
+            {
+                "lockerId": "2045",
+                "occupant": null
+            },
+            {
+                "lockerId": "2046",
+                "occupant": null
+            },
+            {
+                "lockerId": "2047",
+                "occupant": null
+            },
+            {
+                "lockerId": "2048",
+                "occupant": null
+            },
+            {
+                "lockerId": "2049",
+                "occupant": null
+            },
+            {
+                "lockerId": "2050",
+                "occupant": null
+            },
+            {
+                "lockerId": "2051",
+                "occupant": null
+            },
+            {
+                "lockerId": "2052",
+                "occupant": null
+            },
+            {
+                "lockerId": "2053",
+                "occupant": null
+            },
+            {
+                "lockerId": "2054",
+                "occupant": null
+            },
+            {
+                "lockerId": "2055",
+                "occupant": null
+            },
+            {
+                "lockerId": "2056",
+                "occupant": null
+            },
+            {
+                "lockerId": "2057",
+                "occupant": null
+            },
+            {
+                "lockerId": "2058",
+                "occupant": null
+            },
+            {
+                "lockerId": "2059",
+                "occupant": null
+            },
+            {
+                "lockerId": "2060",
+                "occupant": null
+            },
+            {
+                "lockerId": "2061",
+                "occupant": null
+            },
+            {
+                "lockerId": "2062",
+                "occupant": null
+            },
+            {
+                "lockerId": "2063",
+                "occupant": null
+            },
+            {
+                "lockerId": "2064",
+                "occupant": null
+            },
+            {
+                "lockerId": "2065",
+                "occupant": null
+            },
+            {
+                "lockerId": "2066",
+                "occupant": null
+            },
+            {
+                "lockerId": "2067",
+                "occupant": null
+            },
+            {
+                "lockerId": "2068",
+                "occupant": null
+            },
+            {
+                "lockerId": "2069",
+                "occupant": null
+            },
+            {
+                "lockerId": "2070",
+                "occupant": null
+            },
+            {
+                "lockerId": "2071",
+                "occupant": null
+            },
+            {
+                "lockerId": "2072",
+                "occupant": null
+            },
+            {
+                "lockerId": "2073",
+                "occupant": null
+            },
+            {
+                "lockerId": "2074",
+                "occupant": null
+            },
+            {
+                "lockerId": "2075",
+                "occupant": null
+            },
+            {
+                "lockerId": "2076",
+                "occupant": null
+            },
+            {
+                "lockerId": "2077",
+                "occupant": null
+            },
+            {
+                "lockerId": "2078",
+                "occupant": null
+            },
+            {
+                "lockerId": "2079",
+                "occupant": null
+            },
+            {
+                "lockerId": "2080",
+                "occupant": null
+            },
+            {
+                "lockerId": "2081",
+                "occupant": null
+            },
+            {
+                "lockerId": "2082",
+                "occupant": null
+            },
+            {
+                "lockerId": "2083",
+                "occupant": null
+            },
+            {
+                "lockerId": "2084",
+                "occupant": null
+            },
+            {
+                "lockerId": "2085",
+                "occupant": null
+            },
+            {
+                "lockerId": "2086",
+                "occupant": null
+            },
+            {
+                "lockerId": "2087",
+                "occupant": null
+            },
+            {
+                "lockerId": "2088",
+                "occupant": null
+            },
+            {
+                "lockerId": "2089",
+                "occupant": null
+            },
+            {
+                "lockerId": "2090",
+                "occupant": null
+            },
+            {
+                "lockerId": "2091",
+                "occupant": null
+            },
+            {
+                "lockerId": "2092",
+                "occupant": null
+            },
+            {
+                "lockerId": "2093",
+                "occupant": null
+            },
+            {
+                "lockerId": "2094",
+                "occupant": null
+            },
+            {
+                "lockerId": "2095",
+                "occupant": null
+            },
+            {
+                "lockerId": "2096",
+                "occupant": null
+            },
+            {
+                "lockerId": "2097",
+                "occupant": null
+            },
+            {
+                "lockerId": "2098",
+                "occupant": null
+            },
+            {
+                "lockerId": "2099",
+                "occupant": {
+                    "name": "Lisa Ficarelli Halpern",
+                    "id": "None",
+                    "phone": "None",
+                    "email": "None"
+                }
+            },
+            {
+                "lockerId": "2100",
+                "occupant": null
+            },
+            {
+                "lockerId": "2101",
+                "occupant": {
+                    "name": "Lisa Ficarelli Halpern",
+                    "id": "None",
+                    "phone": "None",
+                    "email": "None"
+                }
+            },
+            {
+                "lockerId": "2102",
+                "occupant": null
+            },
+            {
+                "lockerId": "2103",
+                "occupant": null
+            },
+            {
+                "lockerId": "2104",
+                "occupant": null
+            },
+            {
+                "lockerId": "2105",
+                "occupant": {
+                    "name": "Kyle Pangilinan",
+                    "id": "0315864",
+                    "phone": "2018859517",
+                    "email": "kpangilinan@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "2106",
+                "occupant": null
+            },
+            {
+                "lockerId": "2107",
+                "occupant": null
+            },
+            {
+                "lockerId": "2108",
+                "occupant": null
+            },
+            {
+                "lockerId": "2109",
+                "occupant": null
+            },
+            {
+                "lockerId": "2110",
+                "occupant": null
+            },
+            {
+                "lockerId": "2111",
+                "occupant": null
+            },
+            {
+                "lockerId": "2112",
+                "occupant": null
+            }
+        ]
+    },
+    {
+        "semester": "Spring 2023",
+        "l_list": [
+            {
+                "lockerId": "B001",
+                "occupant": null
+            },
+            {
+                "lockerId": "B002",
+                "occupant": null
+            },
+            {
+                "lockerId": "B003",
+                "occupant": null
+            },
+            {
+                "lockerId": "B004",
+                "occupant": null
+            },
+            {
+                "lockerId": "B005",
+                "occupant": null
+            },
+            {
+                "lockerId": "B006",
+                "occupant": null
+            },
+            {
+                "lockerId": "B007",
+                "occupant": null
+            },
+            {
+                "lockerId": "B008",
+                "occupant": null
+            },
+            {
+                "lockerId": "B009",
+                "occupant": null
+            },
+            {
+                "lockerId": "B010",
+                "occupant": null
+            },
+            {
+                "lockerId": "B011",
+                "occupant": null
+            },
+            {
+                "lockerId": "B012",
+                "occupant": null
+            },
+            {
+                "lockerId": "B013",
+                "occupant": null
+            },
+            {
+                "lockerId": "B014",
+                "occupant": null
+            },
+            {
+                "lockerId": "B015",
+                "occupant": null
+            },
+            {
+                "lockerId": "B016",
+                "occupant": null
+            },
+            {
+                "lockerId": "B017",
+                "occupant": null
+            },
+            {
+                "lockerId": "B018",
+                "occupant": null
+            },
+            {
+                "lockerId": "B019",
+                "occupant": null
+            },
+            {
+                "lockerId": "B020",
+                "occupant": null
+            },
+            {
+                "lockerId": "B021",
+                "occupant": null
+            },
+            {
+                "lockerId": "B022",
+                "occupant": null
+            },
+            {
+                "lockerId": "B023",
+                "occupant": null
+            },
+            {
+                "lockerId": "B024",
+                "occupant": null
+            },
+            {
+                "lockerId": "B025",
+                "occupant": null
+            },
+            {
+                "lockerId": "B026",
+                "occupant": null
+            },
+            {
+                "lockerId": "B027",
+                "occupant": null
+            },
+            {
+                "lockerId": "B028",
+                "occupant": null
+            },
+            {
+                "lockerId": "B029",
+                "occupant": null
+            },
+            {
+                "lockerId": "B030",
+                "occupant": null
+            },
+            {
+                "lockerId": "B031",
+                "occupant": null
+            },
+            {
+                "lockerId": "B032",
+                "occupant": null
+            },
+            {
+                "lockerId": "B033",
+                "occupant": null
+            },
+            {
+                "lockerId": "B034",
+                "occupant": null
+            },
+            {
+                "lockerId": "B035",
+                "occupant": null
+            },
+            {
+                "lockerId": "B036",
+                "occupant": null
+            },
+            {
+                "lockerId": "B037",
+                "occupant": null
+            },
+            {
+                "lockerId": "B038",
+                "occupant": null
+            },
+            {
+                "lockerId": "B039",
+                "occupant": null
+            },
+            {
+                "lockerId": "B040",
+                "occupant": null
+            },
+            {
+                "lockerId": "B041",
+                "occupant": null
+            },
+            {
+                "lockerId": "B042",
+                "occupant": null
+            },
+            {
+                "lockerId": "B043",
+                "occupant": null
+            },
+            {
+                "lockerId": "B044",
+                "occupant": null
+            },
+            {
+                "lockerId": "B045",
+                "occupant": null
+            },
+            {
+                "lockerId": "B046",
+                "occupant": null
+            },
+            {
+                "lockerId": "B047",
+                "occupant": null
+            },
+            {
+                "lockerId": "B048",
+                "occupant": null
+            },
+            {
+                "lockerId": "B049",
+                "occupant": null
+            },
+            {
+                "lockerId": "B050",
+                "occupant": null
+            },
+            {
+                "lockerId": "B051",
+                "occupant": null
+            },
+            {
+                "lockerId": "B052",
+                "occupant": null
+            },
+            {
+                "lockerId": "B053",
+                "occupant": null
+            },
+            {
+                "lockerId": "B054",
+                "occupant": null
+            },
+            {
+                "lockerId": "B055",
+                "occupant": null
+            },
+            {
+                "lockerId": "B056",
+                "occupant": null
+            },
+            {
+                "lockerId": "B057",
+                "occupant": null
+            },
+            {
+                "lockerId": "B058",
+                "occupant": null
+            },
+            {
+                "lockerId": "B059",
+                "occupant": null
+            },
+            {
+                "lockerId": "B060",
+                "occupant": null
+            },
+            {
+                "lockerId": "B061",
+                "occupant": null
+            },
+            {
+                "lockerId": "B062",
+                "occupant": null
+            },
+            {
+                "lockerId": "B063",
+                "occupant": null
+            },
+            {
+                "lockerId": "B064",
+                "occupant": null
+            },
+            {
+                "lockerId": "B065",
+                "occupant": null
+            },
+            {
+                "lockerId": "B066",
+                "occupant": null
+            },
+            {
+                "lockerId": "B067",
+                "occupant": null
+            },
+            {
+                "lockerId": "B068",
+                "occupant": null
+            },
+            {
+                "lockerId": "B069",
+                "occupant": null
+            },
+            {
+                "lockerId": "B070",
+                "occupant": null
+            },
+            {
+                "lockerId": "B071",
+                "occupant": null
+            },
+            {
+                "lockerId": "B072",
+                "occupant": null
+            },
+            {
+                "lockerId": "B073",
+                "occupant": null
+            },
+            {
+                "lockerId": "B074",
+                "occupant": null
+            },
+            {
+                "lockerId": "B075",
+                "occupant": null
+            },
+            {
+                "lockerId": "B076",
+                "occupant": null
+            },
+            {
+                "lockerId": "B077",
+                "occupant": null
+            },
+            {
+                "lockerId": "B078",
+                "occupant": null
+            },
+            {
+                "lockerId": "B079",
+                "occupant": null
+            },
+            {
+                "lockerId": "B080",
+                "occupant": null
+            },
+            {
+                "lockerId": "B081",
+                "occupant": null
+            },
+            {
+                "lockerId": "B082",
+                "occupant": null
+            },
+            {
+                "lockerId": "B083",
+                "occupant": null
+            },
+            {
+                "lockerId": "B084",
+                "occupant": null
+            },
+            {
+                "lockerId": "B085",
+                "occupant": null
+            },
+            {
+                "lockerId": "B086",
+                "occupant": null
+            },
+            {
+                "lockerId": "B087",
+                "occupant": null
+            },
+            {
+                "lockerId": "B088",
+                "occupant": null
+            },
+            {
+                "lockerId": "B089",
+                "occupant": null
+            },
+            {
+                "lockerId": "B090",
+                "occupant": null
+            },
+            {
+                "lockerId": "B091",
+                "occupant": null
+            },
+            {
+                "lockerId": "B092",
+                "occupant": null
+            },
+            {
+                "lockerId": "B093",
+                "occupant": null
+            },
+            {
+                "lockerId": "B094",
+                "occupant": null
+            },
+            {
+                "lockerId": "B095",
+                "occupant": null
+            },
+            {
+                "lockerId": "B096",
+                "occupant": null
+            },
+            {
+                "lockerId": "B097",
+                "occupant": null
+            },
+            {
+                "lockerId": "B098",
+                "occupant": null
+            },
+            {
+                "lockerId": "B099",
+                "occupant": null
+            },
+            {
+                "lockerId": "B100",
+                "occupant": null
+            },
+            {
+                "lockerId": "B101",
+                "occupant": null
+            },
+            {
+                "lockerId": "B102",
+                "occupant": null
+            },
+            {
+                "lockerId": "B103",
+                "occupant": null
+            },
+            {
+                "lockerId": "B104",
+                "occupant": null
+            },
+            {
+                "lockerId": "B105",
+                "occupant": null
+            },
+            {
+                "lockerId": "B106",
+                "occupant": null
+            },
+            {
+                "lockerId": "B107",
+                "occupant": null
+            },
+            {
+                "lockerId": "B108",
+                "occupant": null
+            },
+            {
+                "lockerId": "B109",
+                "occupant": null
+            },
+            {
+                "lockerId": "B110",
+                "occupant": null
+            },
+            {
+                "lockerId": "B111",
+                "occupant": null
+            },
+            {
+                "lockerId": "B112",
+                "occupant": null
+            },
+            {
+                "lockerId": "B113",
+                "occupant": null
+            },
+            {
+                "lockerId": "B114",
+                "occupant": null
+            },
+            {
+                "lockerId": "B115",
+                "occupant": null
+            },
+            {
+                "lockerId": "B116",
+                "occupant": null
+            },
+            {
+                "lockerId": "B117",
+                "occupant": null
+            },
+            {
+                "lockerId": "B118",
+                "occupant": null
+            },
+            {
+                "lockerId": "B119",
+                "occupant": null
+            },
+            {
+                "lockerId": "B120",
+                "occupant": null
+            },
+            {
+                "lockerId": "B121",
+                "occupant": null
+            },
+            {
+                "lockerId": "B122",
+                "occupant": null
+            },
+            {
+                "lockerId": "B123",
+                "occupant": null
+            },
+            {
+                "lockerId": "B124",
+                "occupant": null
+            },
+            {
+                "lockerId": "B125",
+                "occupant": null
+            },
+            {
+                "lockerId": "B126",
+                "occupant": null
+            },
+            {
+                "lockerId": "B127",
+                "occupant": null
+            },
+            {
+                "lockerId": "B128",
+                "occupant": null
+            },
+            {
+                "lockerId": "1001",
+                "occupant": {
+                    "name": "Fabiana",
+                    "id": "0393451",
+                    "phone": "5512429948",
+                    "email": "Fabianavum@gmail.com"
+                }
+            },
+            {
+                "lockerId": "1002",
+                "occupant": null
+            },
+            {
+                "lockerId": "1003",
+                "occupant": null
+            },
+            {
+                "lockerId": "1004",
+                "occupant": null
+            },
+            {
+                "lockerId": "1005",
+                "occupant": null
+            },
+            {
+                "lockerId": "1006",
+                "occupant": null
+            },
+            {
+                "lockerId": "1007",
+                "occupant": null
+            },
+            {
+                "lockerId": "1008",
+                "occupant": null
+            },
+            {
+                "lockerId": "1009",
+                "occupant": null
+            },
+            {
+                "lockerId": "1010",
+                "occupant": null
+            },
+            {
+                "lockerId": "1011",
+                "occupant": null
+            },
+            {
+                "lockerId": "1012",
+                "occupant": null
+            },
+            {
+                "lockerId": "1013",
+                "occupant": null
+            },
+            {
+                "lockerId": "1014",
+                "occupant": null
+            },
+            {
+                "lockerId": "1015",
+                "occupant": null
+            },
+            {
+                "lockerId": "1016",
+                "occupant": null
+            },
+            {
+                "lockerId": "1017",
+                "occupant": null
+            },
+            {
+                "lockerId": "1018",
+                "occupant": null
+            },
+            {
+                "lockerId": "1019",
+                "occupant": null
+            },
+            {
+                "lockerId": "1020",
+                "occupant": null
+            },
+            {
+                "lockerId": "1021",
+                "occupant": null
+            },
+            {
+                "lockerId": "1022",
+                "occupant": null
+            },
+            {
+                "lockerId": "1023",
+                "occupant": null
+            },
+            {
+                "lockerId": "1024",
+                "occupant": null
+            },
+            {
+                "lockerId": "1025",
+                "occupant": {
+                    "name": "Kaylee Seaman",
+                    "id": "0380135",
+                    "phone": "2012056430",
+                    "email": "kseaman@njcu"
+                }
+            },
+            {
+                "lockerId": "1026",
+                "occupant": null
+            },
+            {
+                "lockerId": "1027",
+                "occupant": null
+            },
+            {
+                "lockerId": "1028",
+                "occupant": null
+            },
+            {
+                "lockerId": "1029",
+                "occupant": null
+            },
+            {
+                "lockerId": "1030",
+                "occupant": null
+            },
+            {
+                "lockerId": "1031",
+                "occupant": null
+            },
+            {
+                "lockerId": "1032",
+                "occupant": null
+            },
+            {
+                "lockerId": "1033",
+                "occupant": null
+            },
+            {
+                "lockerId": "1034",
+                "occupant": null
+            },
+            {
+                "lockerId": "1035",
+                "occupant": null
+            },
+            {
+                "lockerId": "1036",
+                "occupant": null
+            },
+            {
+                "lockerId": "1037",
+                "occupant": null
+            },
+            {
+                "lockerId": "1038",
+                "occupant": null
+            },
+            {
+                "lockerId": "1039",
+                "occupant": null
+            },
+            {
+                "lockerId": "1040",
+                "occupant": null
+            },
+            {
+                "lockerId": "1041",
+                "occupant": null
+            },
+            {
+                "lockerId": "1042",
+                "occupant": null
+            },
+            {
+                "lockerId": "1043",
+                "occupant": null
+            },
+            {
+                "lockerId": "1044",
+                "occupant": null
+            },
+            {
+                "lockerId": "1045",
+                "occupant": null
+            },
+            {
+                "lockerId": "1046",
+                "occupant": null
+            },
+            {
+                "lockerId": "1047",
+                "occupant": null
+            },
+            {
+                "lockerId": "1048",
+                "occupant": null
+            },
+            {
+                "lockerId": "1049",
+                "occupant": {
+                    "name": "Cinthia Cedeno",
+                    "id": "0253212",
+                    "phone": "5515569028",
+                    "email": "ccedeno@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "1050",
+                "occupant": null
+            },
+            {
+                "lockerId": "1051",
+                "occupant": null
+            },
+            {
+                "lockerId": "1052",
+                "occupant": null
+            },
+            {
+                "lockerId": "1053",
+                "occupant": null
+            },
+            {
+                "lockerId": "1054",
+                "occupant": null
+            },
+            {
+                "lockerId": "1055",
+                "occupant": null
+            },
+            {
+                "lockerId": "1056",
+                "occupant": null
+            },
+            {
+                "lockerId": "1057",
+                "occupant": null
+            },
+            {
+                "lockerId": "1058",
+                "occupant": null
+            },
+            {
+                "lockerId": "1059",
+                "occupant": null
+            },
+            {
+                "lockerId": "1060",
+                "occupant": null
+            },
+            {
+                "lockerId": "1061",
+                "occupant": null
+            },
+            {
+                "lockerId": "1062",
+                "occupant": null
+            },
+            {
+                "lockerId": "1063",
+                "occupant": null
+            },
+            {
+                "lockerId": "1064",
+                "occupant": null
+            },
+            {
+                "lockerId": "1065",
+                "occupant": null
+            },
+            {
+                "lockerId": "1066",
+                "occupant": null
+            },
+            {
+                "lockerId": "1067",
+                "occupant": null
+            },
+            {
+                "lockerId": "1068",
+                "occupant": null
+            },
+            {
+                "lockerId": "1069",
+                "occupant": null
+            },
+            {
+                "lockerId": "1070",
+                "occupant": null
+            },
+            {
+                "lockerId": "1071",
+                "occupant": null
+            },
+            {
+                "lockerId": "1072",
+                "occupant": null
+            },
+            {
+                "lockerId": "1073",
+                "occupant": null
+            },
+            {
+                "lockerId": "1074",
+                "occupant": null
+            },
+            {
+                "lockerId": "1075",
+                "occupant": null
+            },
+            {
+                "lockerId": "1076",
+                "occupant": null
+            },
+            {
+                "lockerId": "1077",
+                "occupant": null
+            },
+            {
+                "lockerId": "1078",
+                "occupant": null
+            },
+            {
+                "lockerId": "1079",
+                "occupant": null
+            },
+            {
+                "lockerId": "1080",
+                "occupant": null
+            },
+            {
+                "lockerId": "1081",
+                "occupant": null
+            },
+            {
+                "lockerId": "1082",
+                "occupant": null
+            },
+            {
+                "lockerId": "1083",
+                "occupant": null
+            },
+            {
+                "lockerId": "1084",
+                "occupant": null
+            },
+            {
+                "lockerId": "1085",
+                "occupant": null
+            },
+            {
+                "lockerId": "1086",
+                "occupant": null
+            },
+            {
+                "lockerId": "1087",
+                "occupant": null
+            },
+            {
+                "lockerId": "1088",
+                "occupant": null
+            },
+            {
+                "lockerId": "1089",
+                "occupant": null
+            },
+            {
+                "lockerId": "1090",
+                "occupant": null
+            },
+            {
+                "lockerId": "1091",
+                "occupant": null
+            },
+            {
+                "lockerId": "1092",
+                "occupant": null
+            },
+            {
+                "lockerId": "1093",
+                "occupant": null
+            },
+            {
+                "lockerId": "1094",
+                "occupant": null
+            },
+            {
+                "lockerId": "1095",
+                "occupant": null
+            },
+            {
+                "lockerId": "1096",
+                "occupant": null
+            },
+            {
+                "lockerId": "1097",
+                "occupant": null
+            },
+            {
+                "lockerId": "1098",
+                "occupant": null
+            },
+            {
+                "lockerId": "1099",
+                "occupant": null
+            },
+            {
+                "lockerId": "1100",
+                "occupant": null
+            },
+            {
+                "lockerId": "1101",
+                "occupant": null
+            },
+            {
+                "lockerId": "1102",
+                "occupant": null
+            },
+            {
+                "lockerId": "1103",
+                "occupant": null
+            },
+            {
+                "lockerId": "1104",
+                "occupant": null
+            },
+            {
+                "lockerId": "1105",
+                "occupant": null
+            },
+            {
+                "lockerId": "1106",
+                "occupant": null
+            },
+            {
+                "lockerId": "1107",
+                "occupant": null
+            },
+            {
+                "lockerId": "1108",
+                "occupant": null
+            },
+            {
+                "lockerId": "1109",
+                "occupant": null
+            },
+            {
+                "lockerId": "1110",
+                "occupant": null
+            },
+            {
+                "lockerId": "1111",
+                "occupant": null
+            },
+            {
+                "lockerId": "1112",
+                "occupant": null
+            },
+            {
+                "lockerId": "1113",
+                "occupant": null
+            },
+            {
+                "lockerId": "1114",
+                "occupant": null
+            },
+            {
+                "lockerId": "1115",
+                "occupant": null
+            },
+            {
+                "lockerId": "1116",
+                "occupant": null
+            },
+            {
+                "lockerId": "1117",
+                "occupant": null
+            },
+            {
+                "lockerId": "1118",
+                "occupant": null
+            },
+            {
+                "lockerId": "1119",
+                "occupant": null
+            },
+            {
+                "lockerId": "1120",
+                "occupant": null
+            },
+            {
+                "lockerId": "1121",
+                "occupant": null
+            },
+            {
+                "lockerId": "1122",
+                "occupant": null
+            },
+            {
+                "lockerId": "1123",
+                "occupant": null
+            },
+            {
+                "lockerId": "1124",
+                "occupant": null
+            },
+            {
+                "lockerId": "1125",
+                "occupant": null
+            },
+            {
+                "lockerId": "1126",
+                "occupant": null
+            },
+            {
+                "lockerId": "1127",
+                "occupant": null
+            },
+            {
+                "lockerId": "1128",
+                "occupant": null
+            },
+            {
+                "lockerId": "2001",
+                "occupant": {
+                    "name": "Danetta Rettino",
+                    "id": "0428215",
+                    "phone": "2018567180",
+                    "email": "drettino@njcu.edu"
+                }
+            },
+            {
+                "lockerId": "2002",
+                "occupant": null
+            },
+            {
+                "lockerId": "2003",
+                "occupant": null
+            },
+            {
+                "lockerId": "2004",
+                "occupant": null
+            },
+            {
+                "lockerId": "2005",
+                "occupant": null
+            },
+            {
+                "lockerId": "2006",
+                "occupant": null
+            },
+            {
+                "lockerId": "2007",
+                "occupant": null
+            },
+            {
+                "lockerId": "2008",
+                "occupant": null
+            },
+            {
+                "lockerId": "2009",
+                "occupant": null
+            },
+            {
+                "lockerId": "2010",
+                "occupant": null
+            },
+            {
+                "lockerId": "2011",
+                "occupant": null
+            },
+            {
+                "lockerId": "2012",
+                "occupant": null
+            },
+            {
+                "lockerId": "2013",
+                "occupant": null
+            },
+            {
+                "lockerId": "2014",
+                "occupant": null
+            },
+            {
+                "lockerId": "2015",
+                "occupant": null
+            },
+            {
+                "lockerId": "2016",
+                "occupant": null
+            },
+            {
+                "lockerId": "2017",
+                "occupant": null
+            },
+            {
+                "lockerId": "2018",
+                "occupant": null
+            },
+            {
+                "lockerId": "2019",
+                "occupant": null
+            },
+            {
+                "lockerId": "2020",
+                "occupant": null
+            },
+            {
+                "lockerId": "2021",
+                "occupant": null
+            },
+            {
+                "lockerId": "2022",
+                "occupant": null
+            },
+            {
+                "lockerId": "2023",
+                "occupant": null
+            },
+            {
+                "lockerId": "2024",
+                "occupant": null
+            },
+            {
+                "lockerId": "2025",
+                "occupant": null
+            },
+            {
+                "lockerId": "2026",
+                "occupant": null
+            },
+            {
+                "lockerId": "2027",
+                "occupant": null
+            },
+            {
+                "lockerId": "2028",
+                "occupant": null
+            },
+            {
+                "lockerId": "2029",
+                "occupant": null
+            },
+            {
+                "lockerId": "2030",
+                "occupant": null
+            },
+            {
+                "lockerId": "2031",
+                "occupant": null
+            },
+            {
+                "lockerId": "2032",
+                "occupant": null
+            },
+            {
+                "lockerId": "2033",
+                "occupant": null
+            },
+            {
+                "lockerId": "2034",
+                "occupant": null
+            },
+            {
+                "lockerId": "2035",
+                "occupant": null
+            },
+            {
+                "lockerId": "2036",
+                "occupant": null
+            },
+            {
+                "lockerId": "2037",
+                "occupant": null
+            },
+            {
+                "lockerId": "2038",
+                "occupant": null
+            },
+            {
+                "lockerId": "2039",
+                "occupant": null
+            },
+            {
+                "lockerId": "2040",
+                "occupant": null
+            },
+            {
+                "lockerId": "2041",
+                "occupant": null
+            },
+            {
+                "lockerId": "2042",
+                "occupant": null
+            },
+            {
+                "lockerId": "2043",
+                "occupant": null
+            },
+            {
+                "lockerId": "2044",
+                "occupant": null
+            },
+            {
+                "lockerId": "2045",
+                "occupant": null
+            },
+            {
+                "lockerId": "2046",
+                "occupant": null
+            },
+            {
+                "lockerId": "2047",
+                "occupant": null
+            },
+            {
+                "lockerId": "2048",
+                "occupant": null
+            },
+            {
+                "lockerId": "2049",
+                "occupant": null
+            },
+            {
+                "lockerId": "2050",
+                "occupant": null
+            },
+            {
+                "lockerId": "2051",
+                "occupant": null
+            },
+            {
+                "lockerId": "2052",
+                "occupant": null
+            },
+            {
+                "lockerId": "2053",
+                "occupant": null
+            },
+            {
+                "lockerId": "2054",
+                "occupant": null
+            },
+            {
+                "lockerId": "2055",
+                "occupant": null
+            },
+            {
+                "lockerId": "2056",
+                "occupant": null
+            },
+            {
+                "lockerId": "2057",
+                "occupant": null
+            },
+            {
+                "lockerId": "2058",
+                "occupant": null
+            },
+            {
+                "lockerId": "2059",
+                "occupant": null
+            },
+            {
+                "lockerId": "2060",
+                "occupant": null
+            },
+            {
+                "lockerId": "2061",
+                "occupant": null
+            },
+            {
+                "lockerId": "2062",
+                "occupant": null
+            },
+            {
+                "lockerId": "2063",
+                "occupant": null
+            },
+            {
+                "lockerId": "2064",
+                "occupant": null
+            },
+            {
+                "lockerId": "2065",
+                "occupant": null
+            },
+            {
+                "lockerId": "2066",
+                "occupant": null
+            },
+            {
+                "lockerId": "2067",
+                "occupant": null
+            },
+            {
+                "lockerId": "2068",
+                "occupant": null
+            },
+            {
+                "lockerId": "2069",
+                "occupant": null
+            },
+            {
+                "lockerId": "2070",
+                "occupant": null
+            },
+            {
+                "lockerId": "2071",
+                "occupant": null
+            },
+            {
+                "lockerId": "2072",
+                "occupant": null
+            },
+            {
+                "lockerId": "2073",
+                "occupant": null
+            },
+            {
+                "lockerId": "2074",
+                "occupant": null
+            },
+            {
+                "lockerId": "2075",
+                "occupant": null
+            },
+            {
+                "lockerId": "2076",
+                "occupant": null
+            },
+            {
+                "lockerId": "2077",
+                "occupant": null
+            },
+            {
+                "lockerId": "2078",
+                "occupant": null
+            },
+            {
+                "lockerId": "2079",
+                "occupant": null
+            },
+            {
+                "lockerId": "2080",
+                "occupant": null
+            },
+            {
+                "lockerId": "2081",
+                "occupant": null
+            },
+            {
+                "lockerId": "2082",
+                "occupant": null
+            },
+            {
+                "lockerId": "2083",
+                "occupant": null
+            },
+            {
+                "lockerId": "2084",
+                "occupant": null
+            },
+            {
+                "lockerId": "2085",
+                "occupant": null
+            },
+            {
+                "lockerId": "2086",
+                "occupant": null
+            },
+            {
+                "lockerId": "2087",
+                "occupant": null
+            },
+            {
+                "lockerId": "2088",
+                "occupant": null
+            },
+            {
+                "lockerId": "2089",
+                "occupant": null
+            },
+            {
+                "lockerId": "2090",
+                "occupant": null
+            },
+            {
+                "lockerId": "2091",
+                "occupant": null
+            },
+            {
+                "lockerId": "2092",
+                "occupant": null
+            },
+            {
+                "lockerId": "2093",
+                "occupant": null
+            },
+            {
+                "lockerId": "2094",
+                "occupant": null
+            },
+            {
+                "lockerId": "2095",
+                "occupant": null
+            },
+            {
+                "lockerId": "2096",
+                "occupant": null
+            },
+            {
+                "lockerId": "2097",
+                "occupant": null
+            },
+            {
+                "lockerId": "2098",
+                "occupant": null
+            },
+            {
+                "lockerId": "2099",
+                "occupant": null
+            },
+            {
+                "lockerId": "2100",
+                "occupant": null
+            },
+            {
+                "lockerId": "2101",
+                "occupant": null
+            },
+            {
+                "lockerId": "2102",
+                "occupant": null
+            },
+            {
+                "lockerId": "2103",
+                "occupant": null
+            },
+            {
+                "lockerId": "2104",
+                "occupant": null
+            },
+            {
+                "lockerId": "2105",
+                "occupant": null
+            },
+            {
+                "lockerId": "2106",
+                "occupant": null
+            },
+            {
+                "lockerId": "2107",
+                "occupant": null
+            },
+            {
+                "lockerId": "2108",
+                "occupant": null
+            },
+            {
+                "lockerId": "2109",
+                "occupant": null
+            },
+            {
+                "lockerId": "2110",
+                "occupant": null
+            },
+            {
+                "lockerId": "2111",
+                "occupant": null
+            },
+            {
+                "lockerId": "2112",
+                "occupant": null
+            }
+        ]
+    }
+]
+}

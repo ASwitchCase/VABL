@@ -1,0 +1,27 @@
+
+<mat-toolbar>
+  <img class="logo2" src="../../../assets/imgs/VABL-logo.png">
+  <span class="spacer"></span>
+  
+  <span>v 2.0.0</span>
+</mat-toolbar>
+
+<section class="content">
+<mat-spinner *ngIf="lockerData.length == 0"></mat-spinner>
+<mat-card *ngIf="lockerData.length > 0" class="content-container">
+    <img src="../../../assets/imgs/VABL-logo.png" class="logo">
+    <mat-form-field>
+        <mat-label>Select A Semester</mat-label>
+        <mat-select [(value)]="selected">
+          <mat-option *ngFor="let lockerList of lockerData" [value]="lockerList.semester">
+            {{lockerList.semester}}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+      <section class="button-container">
+        <button (click)="select()" mat-raised-button color="primary">Select</button>
+        <button (click)="openAddSemester()" mat-raised-button color="accent">Add New</button>
+      </section>
+      
+</mat-card>
+</section>

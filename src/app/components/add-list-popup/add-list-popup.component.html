@@ -1,0 +1,19 @@
+<h1 mat-dialog-title>Create Locker List</h1>
+<div mat-dialog-content>
+    <section class="info-entry">
+
+      <mat-form-field>
+        <mat-label>Enter Semester Name</mat-label>
+        <input matInput placeholder="Spring 2022" [(ngModel)]="newSemesterName">
+      </mat-form-field>
+    </section>
+
+    <section class="button-contianer">
+        <div class="buttons" mat-dialog-actions>
+            <button mat-raised-button (click)="onCancel()" color="warn">Cancel</button>
+            <button mat-raised-button [mat-dialog-close]="newSemesterName" color="accent"
+                       cdkFocusInitial>Add Semester</button>
+          </div>
+    </section>
+      
+</div>
