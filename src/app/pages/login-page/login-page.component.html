@@ -9,7 +9,8 @@
 </mat-toolbar>
 
 <section class="content">
-    <mat-card class="credential-field">
+  <mat-spinner *ngIf="dataIsLoaded === false"></mat-spinner>
+    <mat-card *ngIf="dataIsLoaded === true" class="credential-field">
         <img class="logo" src="../../../assets/imgs/VABL-logo.png">
           <mat-form-field>
             <mat-label>Enter username</mat-label>

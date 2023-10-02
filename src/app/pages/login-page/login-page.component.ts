@@ -18,6 +18,13 @@ export class LoginPageComponent {
   hide = true
   password : string = ""
   username : string = ""
+  dataIsLoaded : boolean  = false
+
+  ngOnInit(): void {
+    this.userService.getUsers().subscribe(users =>{
+      this.dataIsLoaded = true
+    })
+  }
     
   openSnackBar(message: string,action:string){
     this.snackBar.open(message,action);
