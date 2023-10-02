@@ -8,7 +8,7 @@ const routes: Routes = [
   {path: 'login', component:LoginPageComponent},
   {path: 'semester-select', component:SemesterSelectComponent},
   {path: 'dashboard', component:DashboardPageComponent},
-  {path: '', component:SemesterSelectComponent}
+  {path: '', component:LoginPageComponent}
 ];
 
 @NgModule({

@@ -108,7 +108,6 @@ export class DashboardPageComponent {
     this.searchData = ""
   }
 
-
   search(target: string): void{
     const newList: LockerList = {id:"",semester:"Spring 2023",l_list: []}
 

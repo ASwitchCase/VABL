@@ -5,28 +5,26 @@
     <mat-icon>arrow_back</mat-icon>
   </button>
   <span class="spacer"></span>
-  <span>Sign Out</span>
-  <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
-   <mat-icon>logout</mat-icon>
- </button>
+  <span>v.2.0.0</span>
 </mat-toolbar>
 
 <section class="content">
     <mat-card class="credential-field">
         <img class="logo" src="../../../assets/imgs/VABL-logo.png">
-        <mat-form-field>
-            <mat-label>Enter your password</mat-label>
-            <input matInput [type]="hide ? 'password' : 'text'">
+          <mat-form-field>
+            <mat-label>Enter username</mat-label>
+            <input [(ngModel)]="username" matInput placeholder="myUser">
+          </mat-form-field>
+
+          <mat-form-field>
+            <mat-label>Enter password</mat-label>
+            <input [(ngModel)]="password" matInput [type]="hide ? 'password' : 'text'">
             <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
               <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
             </button>
           </mat-form-field>
-        
-          <mat-form-field>
-            <mat-label>Enter your email</mat-label>
-            <input matInput placeholder="pat@example.com">
-          </mat-form-field>
-          <button mat-raised-button color="primary">Sign In</button>
+
+          <button (click)="login()" mat-raised-button color="primary">Sign In</button>
           
     </mat-card>
   
