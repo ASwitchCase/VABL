@@ -26,6 +26,7 @@ import { AddListPopupComponent } from './components/add-list-popup/add-list-popu
 import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
 import {MatSnackBar, MatSnackBarModule} from '@angular/material/snack-bar';
 import { DeleteListPopupComponent } from './components/delete-list-popup/delete-list-popup.component';
+import { ExportToExcelComponent } from './components/export-to-excel/export-to-excel.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -35,7 +36,8 @@ import { DeleteListPopupComponent } from './components/delete-list-popup/delete-
     AddOccupantPopupComponent,
     RemoveOccupantPopupComponent,
     AddListPopupComponent,
-    DeleteListPopupComponent
+    DeleteListPopupComponent,
+    ExportToExcelComponent
   ],
   imports: [
     BrowserModule,

@@ -6,6 +6,8 @@
     <span class="spacer"></span>
     <button (click)="openDeleteList()" mat-raised-button color="warn">DELETE SEMSETER</button>
     <span class="spacer"></span>
+    <span>Download</span>
+    <app-export-to-excel [name]="LockerList.semester" [l_list]="LockerList.l_list"></app-export-to-excel>
     <span>Sign Out</span>
     <button routerLink="" mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
     <mat-icon>logout</mat-icon>
